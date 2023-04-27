@@ -1,0 +1,4759 @@
+{
+    "department": "Administração, Negócios e Economia",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Como fazer amigos e influenciar pessoas",
+                    "book": "8543108683"
+                },
+                {
+                    "title": "Pai Rico, Pai Pobre - Edição de 20 anos atualizada e ampliada: O que os ricos ensinam a seus filhos sobre dinheiro",
+                    "book": "8550801488"
+                },
+                {
+                    "title": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+                    "book": "8550807567"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Do Mil ao Milhão. Sem Cortar o Cafezinho.",
+                    "book": "8595083274"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "Os segredos da mente milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas",
+                    "book": "8575422391"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade",
+                    "book": "6555111100"
+                },
+                {
+                    "title": "Essencialismo: A disciplinada busca por menos",
+                    "book": "8543102146"
+                },
+                {
+                    "title": "A coragem de ser imperfeito: Como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é",
+                    "book": "8543104335"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "O poder do hábito",
+                    "book": "8539004119"
+                },
+                {
+                    "title": "As armas da persuasão: Como influenciar e não se deixar influenciar",
+                    "book": "8575428098"
+                },
+                {
+                    "title": "O poder da autorresponsabilidade: Livro de bolso: A ferramenta comprovada que gera alta performance e resultados em pouco tempo",
+                    "book": "8545202210"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "A chave para a prosperidade: Descubra os segredos revelados pelos maiores milionários do mundo e utilizados pelo próprio Napoleon Hill para enriquecer",
+                    "book": "6550470293"
+                },
+                {
+                    "title": "Desejo de Gol: Histórias e confissões de um empresário que ajudou a criar uma das maiores empresas de aviação do Brasil e que popularizou o transporte aéreo nacional",
+                    "book": "6587885241"
+                },
+                {
+                    "title": "Como fazer amigos e influenciar pessoas",
+                    "book": "8543108683"
+                },
+                {
+                    "title": "Pai Rico, Pai Pobre - Edição de 20 anos atualizada e ampliada: O que os ricos ensinam a seus filhos sobre dinheiro",
+                    "book": "8550801488"
+                },
+                {
+                    "title": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+                    "book": "8550807567"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Do Mil ao Milhão. Sem Cortar o Cafezinho.",
+                    "book": "8595083274"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "Os segredos da mente milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas",
+                    "book": "8575422391"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Liberdade digital: O mais completo manual para empreender na internet e ter resultados",
+                    "book": "6588370326"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade",
+                    "book": "6555111100"
+                },
+                {
+                    "title": "Essencialismo: A disciplinada busca por menos",
+                    "book": "8543102146"
+                },
+                {
+                    "title": "A coragem de ser imperfeito: Como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é",
+                    "book": "8543104335"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "O poder do hábito",
+                    "book": "8539004119"
+                },
+                {
+                    "title": "As armas da persuasão: Como influenciar e não se deixar influenciar",
+                    "book": "8575428098"
+                },
+                {
+                    "title": "O poder da autorresponsabilidade: Livro de bolso: A ferramenta comprovada que gera alta performance e resultados em pouco tempo",
+                    "book": "8545202210"
+                },
+                {
+                    "title": "Empresas feitas para vencer: Por que algumas empresas alcançam a excelência... e outras não",
+                    "book": "8550805246"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Arte, Cinema e Fotografia",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Rita Lee: Outra autobiografia",
+                    "book": "6559871126"
+                },
+                {
+                    "title": "Rita Lee: Uma autobiografia",
+                    "book": "8525063304"
+                },
+                {
+                    "title": "Sobrevivendo no inferno",
+                    "book": "8535931732"
+                },
+                {
+                    "title": "Lettering - Caligrafia criativa para iniciantes",
+                    "book": "655500620X"
+                },
+                {
+                    "title": "Quem pensa enriquece: Edição oficial e original de 1937",
+                    "book": "6587885004"
+                },
+                {
+                    "title": "Auto da Compadecida",
+                    "book": "8520938396"
+                },
+                {
+                    "title": "O caminho do artista: Desperte o seu potencial criativo e rompa seus bloqueios",
+                    "book": "8543105544"
+                },
+                {
+                    "title": "Código limpo: Habilidades práticas do Agile Software",
+                    "book": "8576082675"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "O design do dia a dia",
+                    "book": "8532520839"
+                },
+                {
+                    "title": "Mundo das maravilhas: Um livro de colorir para os curiosos",
+                    "book": "655564236X"
+                },
+                {
+                    "title": "A psicologia das cores: Como as cores afetam a emoção e a razão",
+                    "book": "658828005X"
+                },
+                {
+                    "title": "O Jardim Secreto: Capa Especial + marcador de páginas",
+                    "book": "6587817750"
+                },
+                {
+                    "title": "Aprenda Desenhar - Volume 2",
+                    "book": "8595200645"
+                },
+                {
+                    "title": "Inspirado: Como criar produtos de tecnologia que os clientes amam",
+                    "book": "8550813826"
+                },
+                {
+                    "title": "Meu Piano É Divertido - Volume 1",
+                    "book": "8599477013"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Rita Lee: Outra autobiografia",
+                    "book": "6559871126"
+                },
+                {
+                    "title": "Rita Lee: Uma autobiografia",
+                    "book": "8525063304"
+                },
+                {
+                    "title": "Sobrevivendo no inferno",
+                    "book": "8535931732"
+                },
+                {
+                    "title": "Lettering - Caligrafia criativa para iniciantes",
+                    "book": "655500620X"
+                },
+                {
+                    "title": "Quem pensa enriquece: Edição oficial e original de 1937",
+                    "book": "6587885004"
+                },
+                {
+                    "title": "Auto da Compadecida",
+                    "book": "8520938396"
+                },
+                {
+                    "title": "O caminho do artista: Desperte o seu potencial criativo e rompa seus bloqueios",
+                    "book": "8543105544"
+                },
+                {
+                    "title": "Código limpo: Habilidades práticas do Agile Software",
+                    "book": "8576082675"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "O design do dia a dia",
+                    "book": "8532520839"
+                },
+                {
+                    "title": "Mundo das maravilhas: Um livro de colorir para os curiosos",
+                    "book": "655564236X"
+                },
+                {
+                    "title": "A psicologia das cores: Como as cores afetam a emoção e a razão",
+                    "book": "658828005X"
+                },
+                {
+                    "title": "O Jardim Secreto: Capa Especial + marcador de páginas",
+                    "book": "6587817750"
+                },
+                {
+                    "title": "Aprenda Desenhar - Volume 2",
+                    "book": "8595200645"
+                },
+                {
+                    "title": "Inspirado: Como criar produtos de tecnologia que os clientes amam",
+                    "book": "8550813826"
+                },
+                {
+                    "title": "Meu Piano É Divertido - Volume 1",
+                    "book": "8599477013"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Artesanato, Casa e Estilo de Vida",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "A mandíbula de Caim (edição com páginas destacáveis)",
+                    "book": "6555604425"
+                },
+                {
+                    "title": "101 primeiros desenhos",
+                    "book": "6555003863"
+                },
+                {
+                    "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+                    "book": "8543105293"
+                },
+                {
+                    "title": "30 HISTÓRIAS PARA DORMIR",
+                    "book": "8568599087"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "Diário Estoico: 366 Lições Sobre Sabedoria, Perseverança e a Arte de Viver",
+                    "book": "6555605553"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Tudo o que eu sei sobre o amor",
+                    "book": "6555604573"
+                },
+                {
+                    "title": "A Mandíbula de Caim - Edição Bilíngue",
+                    "book": "6585168054"
+                },
+                {
+                    "title": "Livro de Colorir antiestresse: Mindfulness",
+                    "book": "655617310X"
+                },
+                {
+                    "title": "BEBÊ FELIZ - PASSEIO NA FAZENDA: LIVRO DE PANO INFANTIL",
+                    "book": "855550242X"
+                },
+                {
+                    "title": "Lettering - Caligrafia criativa para iniciantes",
+                    "book": "655500620X"
+                },
+                {
+                    "title": "365 atividades de dinossauros",
+                    "book": "8538089773"
+                },
+                {
+                    "title": "Livro de Colorir antiestresse: Arteterapia que inspira",
+                    "book": "6556173096"
+                },
+                {
+                    "title": "Livro-Tapete para Colorir: Mais de 100 Desenhos Incríveis",
+                    "book": "8537644285"
+                },
+                {
+                    "title": "Box Grandes Mestres do Estoicismo: Edição especial com postais e marcadores",
+                    "book": "6556600539"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "A mandíbula de Caim (edição com páginas destacáveis)",
+                    "book": "6555604425"
+                },
+                {
+                    "title": "101 primeiros desenhos",
+                    "book": "6555003863"
+                },
+                {
+                    "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+                    "book": "8543105293"
+                },
+                {
+                    "title": "30 HISTÓRIAS PARA DORMIR",
+                    "book": "8568599087"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "Diário Estoico: 366 Lições Sobre Sabedoria, Perseverança e a Arte de Viver",
+                    "book": "6555605553"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Tudo o que eu sei sobre o amor",
+                    "book": "6555604573"
+                },
+                {
+                    "title": "A Mandíbula de Caim - Edição Bilíngue",
+                    "book": "6585168054"
+                },
+                {
+                    "title": "Livro de Colorir antiestresse: Mindfulness",
+                    "book": "655617310X"
+                },
+                {
+                    "title": "BEBÊ FELIZ - PASSEIO NA FAZENDA: LIVRO DE PANO INFANTIL",
+                    "book": "855550242X"
+                },
+                {
+                    "title": "Lettering - Caligrafia criativa para iniciantes",
+                    "book": "655500620X"
+                },
+                {
+                    "title": "365 atividades de dinossauros",
+                    "book": "8538089773"
+                },
+                {
+                    "title": "Livro de Colorir antiestresse: Arteterapia que inspira",
+                    "book": "6556173096"
+                },
+                {
+                    "title": "Livro-Tapete para Colorir: Mais de 100 Desenhos Incríveis",
+                    "book": "8537644285"
+                },
+                {
+                    "title": "Box Grandes Mestres do Estoicismo: Edição especial com postais e marcadores",
+                    "book": "6556600539"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Autoajuda",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Abrace seu filho: Como a criação com afeto mudou a história de um pai",
+                    "book": "8581744346"
+                },
+                {
+                    "title": "Diversidade e inclusão: e suas dimensões",
+                    "book": "Diversidade"
+                },
+                {
+                    "title": "Como fazer amigos e influenciar pessoas",
+                    "book": "8543108683"
+                },
+                {
+                    "title": "O homem mais rico da Babilônia",
+                    "book": "8595081530"
+                },
+                {
+                    "title": "Pai Rico, Pai Pobre - Edição de 20 anos atualizada e ampliada: O que os ricos ensinam a seus filhos sobre dinheiro",
+                    "book": "8550801488"
+                },
+                {
+                    "title": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+                    "book": "8550807567"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "Os segredos da mente milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas",
+                    "book": "8575422391"
+                },
+                {
+                    "title": "Inteligência positiva",
+                    "book": "8539004623"
+                },
+                {
+                    "title": "Devocional dos Clássicos Volume 1 - Ornamentos Novo: Dia a dia com os grandes pensadores do cristianismo",
+                    "book": "Devocional"
+                },
+                {
+                    "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+                    "book": "8543105293"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade",
+                    "book": "6555111100"
+                },
+                {
+                    "title": "O poder do subconsciente",
+                    "book": "8546501459"
+                },
+                {
+                    "title": "Essencialismo: A disciplinada busca por menos",
+                    "book": "8543102146"
+                },
+                {
+                    "title": "Como convencer alguém em 90 segundos: Crie uma primeira impressão vendedora",
+                    "book": "8579303192"
+                },
+                {
+                    "title": "As 48 leis do poder",
+                    "book": "6555320516"
+                },
+                {
+                    "title": "A morte é um dia que vale a pena viver: E um excelente motivo para se buscar um novo olhar para a vida",
+                    "book": "8543107202"
+                },
+                {
+                    "title": "Devocional dos Clássicos Volume 2 - Floral: Dia a dia com os grandes pensadores do cristianismo",
+                    "book": "Devocional"
+                },
+                {
+                    "title": "Devocional dos Clássicos Volume 2 - Ornamentos: Dia a dia com os grandes pensadores do cristianismo",
+                    "book": "Devocional"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Abrace seu filho: Como a criação com afeto mudou a história de um pai",
+                    "book": "8581744346"
+                },
+                {
+                    "title": "Diversidade e inclusão: e suas dimensões",
+                    "book": "Diversidade"
+                },
+                {
+                    "title": "Como fazer amigos e influenciar pessoas",
+                    "book": "8543108683"
+                },
+                {
+                    "title": "O homem mais rico da Babilônia",
+                    "book": "8595081530"
+                },
+                {
+                    "title": "Pai Rico, Pai Pobre - Edição de 20 anos atualizada e ampliada: O que os ricos ensinam a seus filhos sobre dinheiro",
+                    "book": "8550801488"
+                },
+                {
+                    "title": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+                    "book": "8550807567"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "Os segredos da mente milionária: Aprenda a enriquecer mudando seus conceitos sobre o dinheiro e adotando os hábitos das pessoas bem-sucedidas",
+                    "book": "8575422391"
+                },
+                {
+                    "title": "Inteligência positiva",
+                    "book": "8539004623"
+                },
+                {
+                    "title": "Devocional dos Clássicos Volume 1 - Ornamentos Novo: Dia a dia com os grandes pensadores do cristianismo",
+                    "book": "Devocional"
+                },
+                {
+                    "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+                    "book": "8543105293"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "A psicologia financeira: lições atemporais sobre fortuna, ganância e felicidade",
+                    "book": "6555111100"
+                },
+                {
+                    "title": "O poder do subconsciente",
+                    "book": "8546501459"
+                },
+                {
+                    "title": "Essencialismo: A disciplinada busca por menos",
+                    "book": "8543102146"
+                },
+                {
+                    "title": "Como convencer alguém em 90 segundos: Crie uma primeira impressão vendedora",
+                    "book": "8579303192"
+                },
+                {
+                    "title": "As 48 leis do poder",
+                    "book": "6555320516"
+                },
+                {
+                    "title": "A morte é um dia que vale a pena viver: E um excelente motivo para se buscar um novo olhar para a vida",
+                    "book": "8543107202"
+                },
+                {
+                    "title": "Devocional dos Clássicos Volume 2 - Floral: Dia a dia com os grandes pensadores do cristianismo",
+                    "book": "Devocional"
+                },
+                {
+                    "title": "Devocional dos Clássicos Volume 2 - Ornamentos: Dia a dia com os grandes pensadores do cristianismo",
+                    "book": "Devocional"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Biografias e Histórias Reais",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Malala, a menina que queria ir para a escola",
+                    "book": "8574066702"
+                },
+                {
+                    "title": "Era um garoto: O soldado brasileiro de Hitler – Uma história real",
+                    "book": "8582863284"
+                },
+                {
+                    "title": "Em busca de mim",
+                    "book": "6557121383"
+                },
+                {
+                    "title": "Nunca foi segredo: A sabedoria de Milênios em 60 ensinamentos",
+                    "book": "6588444699"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "O rei dos dividendos: A saga do filho de imigrantes pobres que se tornou o maior investidor pessoa física da bolsa de valores brasileira",
+                    "book": "6555644745"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Malala, a menina que queria ir para a escola",
+                    "book": "8574066702"
+                },
+                {
+                    "title": "Tudo o que eu sei sobre o amor",
+                    "book": "6555604573"
+                },
+                {
+                    "title": "Rita Lee: Outra autobiografia",
+                    "book": "6559871126"
+                },
+                {
+                    "title": "Manifesto do Partido Comunista: Com todos os prefácios de Marx e Engels e os Estatutos da Liga dos Comunistas",
+                    "book": "857283902X"
+                },
+                {
+                    "title": "Rita Lee: Uma autobiografia",
+                    "book": "8525063304"
+                },
+                {
+                    "title": "O diário de Anne Frank",
+                    "book": "6550970407"
+                },
+                {
+                    "title": "Entre a lucidez e a esperança: Um olhar sobre a finitude para quem não tem tempo a perder",
+                    "book": "6555645857"
+                },
+                {
+                    "title": "Lady Killers: Assassinas em Série: As mulheres mais letais da história - Em uma edição igualmente matadora",
+                    "book": "8594541473"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "Cabeça Fria, Coração Quente: Uma viagem pelos bastidores da equipa técnica: segredos, reflexões e métodos de trabalho revelados em primeira pessoa",
+                    "book": "6599096387"
+                },
+                {
+                    "title": "O que sobra",
+                    "book": "8539007479"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Malala, a menina que queria ir para a escola",
+                    "book": "8574066702"
+                },
+                {
+                    "title": "Era um garoto: O soldado brasileiro de Hitler – Uma história real",
+                    "book": "8582863284"
+                },
+                {
+                    "title": "Em busca de mim",
+                    "book": "6557121383"
+                },
+                {
+                    "title": "Nunca foi segredo: A sabedoria de Milênios em 60 ensinamentos",
+                    "book": "6588444699"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "O rei dos dividendos: A saga do filho de imigrantes pobres que se tornou o maior investidor pessoa física da bolsa de valores brasileira",
+                    "book": "6555644745"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Malala, a menina que queria ir para a escola",
+                    "book": "8574066702"
+                },
+                {
+                    "title": "Tudo o que eu sei sobre o amor",
+                    "book": "6555604573"
+                },
+                {
+                    "title": "Rita Lee: Outra autobiografia",
+                    "book": "6559871126"
+                },
+                {
+                    "title": "Manifesto do Partido Comunista: Com todos os prefácios de Marx e Engels e os Estatutos da Liga dos Comunistas",
+                    "book": "857283902X"
+                },
+                {
+                    "title": "Rita Lee: Uma autobiografia",
+                    "book": "8525063304"
+                },
+                {
+                    "title": "O diário de Anne Frank",
+                    "book": "6550970407"
+                },
+                {
+                    "title": "Entre a lucidez e a esperança: Um olhar sobre a finitude para quem não tem tempo a perder",
+                    "book": "6555645857"
+                },
+                {
+                    "title": "Lady Killers: Assassinas em Série: As mulheres mais letais da história - Em uma edição igualmente matadora",
+                    "book": "8594541473"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "Cabeça Fria, Coração Quente: Uma viagem pelos bastidores da equipa técnica: segredos, reflexões e métodos de trabalho revelados em primeira pessoa",
+                    "book": "6599096387"
+                },
+                {
+                    "title": "O que sobra",
+                    "book": "8539007479"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Ciências",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Educar é um ato de amor, mas também é ciência: .",
+                    "book": "6559224139"
+                },
+                {
+                    "title": "Neil Armstrong a Biografia do Primeiro Homem a Pisar na Lua",
+                    "book": "8584190805"
+                },
+                {
+                    "title": "Sapiens (Nova edição): Uma breve história da humanidade",
+                    "book": "8535933921"
+                },
+                {
+                    "title": "Futuro ancestral",
+                    "book": "6559211541"
+                },
+                {
+                    "title": "Ideias para adiar o fim do mundo (Nova edição)",
+                    "book": "8535933581"
+                },
+                {
+                    "title": "Mude seus horários, mude sua vida: Como usar o relógio biológico para perder peso, reduzir o estresse, dormir melhor e ter mais saúde e energia",
+                    "book": "8543109205"
+                },
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "BEBÊ FELIZ - PASSEIO NA FAZENDA: LIVRO DE PANO INFANTIL",
+                    "book": "855550242X"
+                },
+                {
+                    "title": "O corpo fala: A linguagem silenciosa da comunicação não verbal",
+                    "book": "8532602088"
+                },
+                {
+                    "title": "Em busca de nós mesmos",
+                    "book": "8568014453"
+                },
+                {
+                    "title": "Excitadx: Histórias curiosas sobre como os hormônios controlam praticamente tudo",
+                    "book": "6550470404"
+                },
+                {
+                    "title": "O oráculo da noite: A história e a ciência do sonho",
+                    "book": "8535932178"
+                },
+                {
+                    "title": "A fábrica de cretinos digitais: Os perigos das telas para nossas crianças",
+                    "book": "6586551528"
+                },
+                {
+                    "title": "Atlas ilustrado do corpo humano",
+                    "book": "8538007335"
+                },
+                {
+                    "title": "Homo Deus",
+                    "book": "8535928197"
+                },
+                {
+                    "title": "O mundo assombrado pelos demônios",
+                    "book": "853590834X"
+                },
+                {
+                    "title": "O andar do bêbado: Como o acaso determina nossas vidas",
+                    "book": "8537818100"
+                },
+                {
+                    "title": "Mundo Animal: Animais Brasileiros",
+                    "book": "6587817475"
+                },
+                {
+                    "title": "O grande livro de matemática do Manual do Mundo: Anotações incríveis e divertidas para você aprender sobre o intrigante universo dos números e das formas geométricas",
+                    "book": "6555643366"
+                },
+                {
+                    "title": "Por que nós dormimos: A nova ciência do sono e do sonho",
+                    "book": "8551003658"
+                },
+                {
+                    "title": "O mundo assombrado pelos demônios",
+                    "book": "853590834X"
+                },
+                {
+                    "title": "Mundo Animal: Animais Brasileiros",
+                    "book": "6587817475"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Educar é um ato de amor, mas também é ciência: .",
+                    "book": "6559224139"
+                },
+                {
+                    "title": "Neil Armstrong a Biografia do Primeiro Homem a Pisar na Lua",
+                    "book": "8584190805"
+                },
+                {
+                    "title": "Sapiens (Nova edição): Uma breve história da humanidade",
+                    "book": "8535933921"
+                },
+                {
+                    "title": "Futuro ancestral",
+                    "book": "6559211541"
+                },
+                {
+                    "title": "Ideias para adiar o fim do mundo (Nova edição)",
+                    "book": "8535933581"
+                },
+                {
+                    "title": "Mude seus horários, mude sua vida: Como usar o relógio biológico para perder peso, reduzir o estresse, dormir melhor e ter mais saúde e energia",
+                    "book": "8543109205"
+                },
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "BEBÊ FELIZ - PASSEIO NA FAZENDA: LIVRO DE PANO INFANTIL",
+                    "book": "855550242X"
+                },
+                {
+                    "title": "O corpo fala: A linguagem silenciosa da comunicação não verbal",
+                    "book": "8532602088"
+                },
+                {
+                    "title": "Em busca de nós mesmos",
+                    "book": "8568014453"
+                },
+                {
+                    "title": "Excitadx: Histórias curiosas sobre como os hormônios controlam praticamente tudo",
+                    "book": "6550470404"
+                },
+                {
+                    "title": "O oráculo da noite: A história e a ciência do sonho",
+                    "book": "8535932178"
+                },
+                {
+                    "title": "A fábrica de cretinos digitais: Os perigos das telas para nossas crianças",
+                    "book": "6586551528"
+                },
+                {
+                    "title": "Atlas ilustrado do corpo humano",
+                    "book": "8538007335"
+                },
+                {
+                    "title": "Homo Deus",
+                    "book": "8535928197"
+                },
+                {
+                    "title": "O mundo assombrado pelos demônios",
+                    "book": "853590834X"
+                },
+                {
+                    "title": "O andar do bêbado: Como o acaso determina nossas vidas",
+                    "book": "8537818100"
+                },
+                {
+                    "title": "Mundo Animal: Animais Brasileiros",
+                    "book": "6587817475"
+                },
+                {
+                    "title": "O grande livro de matemática do Manual do Mundo: Anotações incríveis e divertidas para você aprender sobre o intrigante universo dos números e das formas geométricas",
+                    "book": "6555643366"
+                },
+                {
+                    "title": "Por que nós dormimos: A nova ciência do sono e do sonho",
+                    "book": "8551003658"
+                },
+                {
+                    "title": "O mundo assombrado pelos demônios",
+                    "book": "853590834X"
+                },
+                {
+                    "title": "Mundo Animal: Animais Brasileiros",
+                    "book": "6587817475"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Computação, Informática e Mídias Digitais",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Gatilhos Mentais: O Guia Completo com Estratégias de Negócios e Comunicações Provadas Para Você Aplicar",
+                    "book": "8582892101"
+                },
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos",
+                    "book": "8575225634"
+                },
+                {
+                    "title": "Código limpo: Habilidades práticas do Agile Software",
+                    "book": "8576082675"
+                },
+                {
+                    "title": "A máquina do caos: Como as redes sociais reprogramaram nossa mente e nosso mundo",
+                    "book": "6556924008"
+                },
+                {
+                    "title": "O Mais Importante para o Investidor: Lições de um Gênio do Mercado Financeiro",
+                    "book": "6556600202"
+                },
+                {
+                    "title": "Gestão de Alta Performance: Tudo o que um gestor precisa saber para gerenciar equipes e manter o foco em resultados",
+                    "book": "855717358X"
+                },
+                {
+                    "title": "Arquitetura limpa: O guia do artesão para estrutura e design de software",
+                    "book": "8550804606"
+                },
+                {
+                    "title": "O herói e o fora da lei: Como construir marcas extraordinárias usando o poder dos arquétipos",
+                    "book": "8531608090"
+                },
+                {
+                    "title": "Marketing 5.0: Tecnologia para a humanidade",
+                    "book": "6555642408"
+                },
+                {
+                    "title": "Código de Defesa do Consumidor 2023: Atualizada até DOU de 5 de outubro de 2022",
+                    "book": "6556600857"
+                },
+                {
+                    "title": "Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes",
+                    "book": "8575227181"
+                },
+                {
+                    "title": "Pense como um imperador: Conheça a mente de um dos maiores líderes da história e descubra como um mindset resiliente pode vencer qualquer adversidade",
+                    "book": "6550470307"
+                },
+                {
+                    "title": "Prospecção fanática: O guia definitivo de conversas para iniciar vendas e encher o funil aproveitando ao máximo redes sociais, telefone, e-mail, texto e chamadas frias",
+                    "book": "8550804509"
+                },
+                {
+                    "title": "Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais",
+                    "book": "6550440181"
+                },
+                {
+                    "title": "Inspirado: Como criar produtos de tecnologia que os clientes amam",
+                    "book": "8550813826"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Gatilhos Mentais: O Guia Completo com Estratégias de Negócios e Comunicações Provadas Para Você Aplicar",
+                    "book": "8582892101"
+                },
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos",
+                    "book": "8575225634"
+                },
+                {
+                    "title": "Código limpo: Habilidades práticas do Agile Software",
+                    "book": "8576082675"
+                },
+                {
+                    "title": "A máquina do caos: Como as redes sociais reprogramaram nossa mente e nosso mundo",
+                    "book": "6556924008"
+                },
+                {
+                    "title": "O Mais Importante para o Investidor: Lições de um Gênio do Mercado Financeiro",
+                    "book": "6556600202"
+                },
+                {
+                    "title": "Gestão de Alta Performance: Tudo o que um gestor precisa saber para gerenciar equipes e manter o foco em resultados",
+                    "book": "855717358X"
+                },
+                {
+                    "title": "Arquitetura limpa: O guia do artesão para estrutura e design de software",
+                    "book": "8550804606"
+                },
+                {
+                    "title": "O herói e o fora da lei: Como construir marcas extraordinárias usando o poder dos arquétipos",
+                    "book": "8531608090"
+                },
+                {
+                    "title": "Marketing 5.0: Tecnologia para a humanidade",
+                    "book": "6555642408"
+                },
+                {
+                    "title": "Código de Defesa do Consumidor 2023: Atualizada até DOU de 5 de outubro de 2022",
+                    "book": "6556600857"
+                },
+                {
+                    "title": "Introdução à Programação com Python: Algoritmos e Lógica de Programação Para Iniciantes",
+                    "book": "8575227181"
+                },
+                {
+                    "title": "Pense como um imperador: Conheça a mente de um dos maiores líderes da história e descubra como um mindset resiliente pode vencer qualquer adversidade",
+                    "book": "6550470307"
+                },
+                {
+                    "title": "Prospecção fanática: O guia definitivo de conversas para iniciar vendas e encher o funil aproveitando ao máximo redes sociais, telefone, e-mail, texto e chamadas frias",
+                    "book": "8550804509"
+                },
+                {
+                    "title": "Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais",
+                    "book": "6550440181"
+                },
+                {
+                    "title": "Inspirado: Como criar produtos de tecnologia que os clientes amam",
+                    "book": "8550813826"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Crônicas, Humor e Entretenimento",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "A mandíbula de Caim (edição com páginas destacáveis)",
+                    "book": "6555604425"
+                },
+                {
+                    "title": "101 primeiros desenhos",
+                    "book": "6555003863"
+                },
+                {
+                    "title": "Cartas de um diabo a seu aprendiz",
+                    "book": "857860184X"
+                },
+                {
+                    "title": "Tudo o que eu sei sobre o amor",
+                    "book": "6555604573"
+                },
+                {
+                    "title": "A Mandíbula de Caim - Edição Bilíngue",
+                    "book": "6585168054"
+                },
+                {
+                    "title": "Auto da Compadecida",
+                    "book": "8520938396"
+                },
+                {
+                    "title": "Epaminondas: O gato explicador",
+                    "book": "6550471400"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "Cartilha Caminho Suave: Alfabetização pela Imagem",
+                    "book": "8589987396"
+                },
+                {
+                    "title": "Caligrafia Caminho Suave: Letra de Fôrma e Letra Cursiva",
+                    "book": "8589987353"
+                },
+                {
+                    "title": "A Noite dos Palhaços Mudos",
+                    "book": "6558031485"
+                },
+                {
+                    "title": "365 caça-palavras II",
+                    "book": "8538089811"
+                },
+                {
+                    "title": "Para ensinar e aprender xadrez",
+                    "book": "6555522631"
+                },
+                {
+                    "title": "365 Piadas. Curiosidades e Adivinhas Capa Amarelo",
+                    "book": "8561403365"
+                },
+                {
+                    "title": "Incríveis Mapas - Livro Atividades",
+                    "book": "6558881004"
+                },
+                {
+                    "title": "Tira e põe sílaba: Some ou subtraia um sílaba e procure a imagem com a palavra que se formou",
+                    "book": "8582306377"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "A mandíbula de Caim (edição com páginas destacáveis)",
+                    "book": "6555604425"
+                },
+                {
+                    "title": "101 primeiros desenhos",
+                    "book": "6555003863"
+                },
+                {
+                    "title": "Cartas de um diabo a seu aprendiz",
+                    "book": "857860184X"
+                },
+                {
+                    "title": "Tudo o que eu sei sobre o amor",
+                    "book": "6555604573"
+                },
+                {
+                    "title": "A Mandíbula de Caim - Edição Bilíngue",
+                    "book": "6585168054"
+                },
+                {
+                    "title": "Auto da Compadecida",
+                    "book": "8520938396"
+                },
+                {
+                    "title": "Epaminondas: O gato explicador",
+                    "book": "6550471400"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "Cartilha Caminho Suave: Alfabetização pela Imagem",
+                    "book": "8589987396"
+                },
+                {
+                    "title": "Caligrafia Caminho Suave: Letra de Fôrma e Letra Cursiva",
+                    "book": "8589987353"
+                },
+                {
+                    "title": "A Noite dos Palhaços Mudos",
+                    "book": "6558031485"
+                },
+                {
+                    "title": "365 caça-palavras II",
+                    "book": "8538089811"
+                },
+                {
+                    "title": "Para ensinar e aprender xadrez",
+                    "book": "6555522631"
+                },
+                {
+                    "title": "365 Piadas. Curiosidades e Adivinhas Capa Amarelo",
+                    "book": "8561403365"
+                },
+                {
+                    "title": "Incríveis Mapas - Livro Atividades",
+                    "book": "6558881004"
+                },
+                {
+                    "title": "Tira e põe sílaba: Some ou subtraia um sílaba e procure a imagem com a palavra que se formou",
+                    "book": "8582306377"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Direito",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Privacidade E Redes Sociais Virtuais",
+                    "book": "Privacidade"
+                },
+                {
+                    "title": "Direito Homoafetivo",
+                    "book": "8553219887"
+                },
+                {
+                    "title": "Vade Mecum Saraiva - Tradicional - 35ª edição 2023",
+                    "book": "6553627398"
+                },
+                {
+                    "title": "Vade Mecum Acadêmico de Direito Rideel 36ª Edição 1ª Semestre 2023 + Planner de Estudos",
+                    "book": "6557388169"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Vade Mecum Compacto - 26ª edição 2023",
+                    "book": "6553627428"
+                },
+                {
+                    "title": "Dos Delitos e das Penas",
+                    "book": "8572839259"
+                },
+                {
+                    "title": "Box Grandes Mestres do Estoicismo: Edição especial com postais e marcadores",
+                    "book": "6556600539"
+                },
+                {
+                    "title": "Empresas feitas para vencer: Por que algumas empresas alcançam a excelência... e outras não",
+                    "book": "8550805246"
+                },
+                {
+                    "title": "Negocie como se sua vida dependesse disso: Um ex-agente do FBI revela as técnicas da agência para convencer as pessoas",
+                    "book": "8543108055"
+                },
+                {
+                    "title": "Pessoa, Direitos E Direito",
+                    "book": "6556144495"
+                },
+                {
+                    "title": "A Autorização No Direito Privado",
+                    "book": "6550650690"
+                },
+                {
+                    "title": "Como chegar ao sim: Como negociar acordos sem fazer concessões",
+                    "book": "8543106214"
+                },
+                {
+                    "title": "Vigiar e punir: Nascimento da prisão",
+                    "book": "8532605087"
+                },
+                {
+                    "title": "Código de Defesa do Consumidor 2023: Atualizada até DOU de 5 de outubro de 2022",
+                    "book": "6556600857"
+                },
+                {
+                    "title": "Código Civil 2023: Míni",
+                    "book": "6556601055"
+                },
+                {
+                    "title": "Vade Mecum Penal - Temático - 8ª edição 2023",
+                    "book": "6553627266"
+                },
+                {
+                    "title": "Constituição Federal - CF de Bolso - 6ª Edição (2023)",
+                    "book": "6557388258"
+                },
+                {
+                    "title": "Pense como um imperador: Conheça a mente de um dos maiores líderes da história e descubra como um mindset resiliente pode vencer qualquer adversidade",
+                    "book": "6550470307"
+                },
+                {
+                    "title": "Constituição Federal 2023",
+                    "book": "6556601047"
+                },
+                {
+                    "title": "Direito dos Estrangeiros no Brasil",
+                    "book": "6559916219"
+                },
+                {
+                    "title": "Direito das Coisas 15ª edição",
+                    "book": "6526004075"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Privacidade E Redes Sociais Virtuais",
+                    "book": "Privacidade"
+                },
+                {
+                    "title": "Direito Homoafetivo",
+                    "book": "8553219887"
+                },
+                {
+                    "title": "Vade Mecum Saraiva - Tradicional - 35ª edição 2023",
+                    "book": "6553627398"
+                },
+                {
+                    "title": "Vade Mecum Acadêmico de Direito Rideel 36ª Edição 1ª Semestre 2023 + Planner de Estudos",
+                    "book": "6557388169"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Vade Mecum Compacto - 26ª edição 2023",
+                    "book": "6553627428"
+                },
+                {
+                    "title": "Dos Delitos e das Penas",
+                    "book": "8572839259"
+                },
+                {
+                    "title": "Box Grandes Mestres do Estoicismo: Edição especial com postais e marcadores",
+                    "book": "6556600539"
+                },
+                {
+                    "title": "Empresas feitas para vencer: Por que algumas empresas alcançam a excelência... e outras não",
+                    "book": "8550805246"
+                },
+                {
+                    "title": "Negocie como se sua vida dependesse disso: Um ex-agente do FBI revela as técnicas da agência para convencer as pessoas",
+                    "book": "8543108055"
+                },
+                {
+                    "title": "Pessoa, Direitos E Direito",
+                    "book": "6556144495"
+                },
+                {
+                    "title": "A Autorização No Direito Privado",
+                    "book": "6550650690"
+                },
+                {
+                    "title": "Como chegar ao sim: Como negociar acordos sem fazer concessões",
+                    "book": "8543106214"
+                },
+                {
+                    "title": "Vigiar e punir: Nascimento da prisão",
+                    "book": "8532605087"
+                },
+                {
+                    "title": "Código de Defesa do Consumidor 2023: Atualizada até DOU de 5 de outubro de 2022",
+                    "book": "6556600857"
+                },
+                {
+                    "title": "Código Civil 2023: Míni",
+                    "book": "6556601055"
+                },
+                {
+                    "title": "Vade Mecum Penal - Temático - 8ª edição 2023",
+                    "book": "6553627266"
+                },
+                {
+                    "title": "Constituição Federal - CF de Bolso - 6ª Edição (2023)",
+                    "book": "6557388258"
+                },
+                {
+                    "title": "Pense como um imperador: Conheça a mente de um dos maiores líderes da história e descubra como um mindset resiliente pode vencer qualquer adversidade",
+                    "book": "6550470307"
+                },
+                {
+                    "title": "Constituição Federal 2023",
+                    "book": "6556601047"
+                },
+                {
+                    "title": "Direito dos Estrangeiros no Brasil",
+                    "book": "6559916219"
+                },
+                {
+                    "title": "Direito das Coisas 15ª edição",
+                    "book": "6526004075"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Educação, Referência e Didáticos",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Café com Deus Pai: Porções Diárias de Renovação",
+                    "book": "6555843144"
+                },
+                {
+                    "title": "Pai Rico, Pai Pobre - Edição de 20 anos atualizada e ampliada: O que os ricos ensinam a seus filhos sobre dinheiro",
+                    "book": "8550801488"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "12 regras para a vida: um antídoto para o caos",
+                    "book": "8550802751"
+                },
+                {
+                    "title": "30 HISTÓRIAS PARA DORMIR",
+                    "book": "8568599087"
+                },
+                {
+                    "title": "Como ser um educador antirracista: Para familiares e professores",
+                    "book": "8542221257"
+                },
+                {
+                    "title": "Biblioteca Estoica | Grandes Mestres - Box com 4 livros",
+                    "book": "6580921609"
+                },
+                {
+                    "title": "Atitude mental positiva",
+                    "book": "8568014054"
+                },
+                {
+                    "title": "A raiva não educa. A calma educa.: Por uma geração de adultos e crianças com mais saúde emocional",
+                    "book": "6555662646"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "Cocô, Xixi e Pum: Adeus, fralda!",
+                    "book": "8589987388"
+                },
+                {
+                    "title": "Fahrenheit 451",
+                    "book": "8525052248"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Café com Deus Pai: Porções Diárias de Renovação",
+                    "book": "6555843144"
+                },
+                {
+                    "title": "Pai Rico, Pai Pobre - Edição de 20 anos atualizada e ampliada: O que os ricos ensinam a seus filhos sobre dinheiro",
+                    "book": "8550801488"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "12 regras para a vida: um antídoto para o caos",
+                    "book": "8550802751"
+                },
+                {
+                    "title": "30 HISTÓRIAS PARA DORMIR",
+                    "book": "8568599087"
+                },
+                {
+                    "title": "Como ser um educador antirracista: Para familiares e professores",
+                    "book": "8542221257"
+                },
+                {
+                    "title": "Biblioteca Estoica | Grandes Mestres - Box com 4 livros",
+                    "book": "6580921609"
+                },
+                {
+                    "title": "Atitude mental positiva",
+                    "book": "8568014054"
+                },
+                {
+                    "title": "A raiva não educa. A calma educa.: Por uma geração de adultos e crianças com mais saúde emocional",
+                    "book": "6555662646"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "Cocô, Xixi e Pum: Adeus, fralda!",
+                    "book": "8589987388"
+                },
+                {
+                    "title": "Fahrenheit 451",
+                    "book": "8525052248"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Engenharia e Transporte",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "O design do dia a dia",
+                    "book": "8532520839"
+                },
+                {
+                    "title": "Arquitetura limpa: O guia do artesão para estrutura e design de software",
+                    "book": "8550804606"
+                },
+                {
+                    "title": "Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais",
+                    "book": "6550440181"
+                },
+                {
+                    "title": "Inspirado: Como criar produtos de tecnologia que os clientes amam",
+                    "book": "8550813826"
+                },
+                {
+                    "title": "Hábitos dos milionários: Os segredos por trás das maiores fortunas do mundo",
+                    "book": "6587885039"
+                },
+                {
+                    "title": "Sozinho ao Redor do Mundo",
+                    "book": "655660111X"
+                },
+                {
+                    "title": "Férias na Antártica",
+                    "book": "8575963600"
+                },
+                {
+                    "title": "Anatomia Artistica 2: Como desenhar o corpo humano de forma esquemática",
+                    "book": "6588280084"
+                },
+                {
+                    "title": "Em mim basta!: O poder de pular fora quando nada mais faz sentido",
+                    "book": "6550471419"
+                },
+                {
+                    "title": "2041: Como a inteligência artificial vai mudar sua vida nas próximas décadas",
+                    "book": "6559870537"
+                },
+                {
+                    "title": "Leis da Psicologia Aplicadas a UX: Usando Psicologia Para Projetar Produtos e Serviços Melhores",
+                    "book": "6586057256"
+                },
+                {
+                    "title": "Arte de projetar em arquitetura",
+                    "book": "8582605757"
+                },
+                {
+                    "title": "Ayrton Senna: Uma Lenda a Toda Velocidade: Uma Jornada Interativa",
+                    "book": "8526013718"
+                },
+                {
+                    "title": "O livro da biologia",
+                    "book": "6559870499"
+                },
+                {
+                    "title": "Meu Primeiro Dicionário Ilustrado de Inglês",
+                    "book": "8533913176"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios",
+                    "book": "8550804681"
+                },
+                {
+                    "title": "O design do dia a dia",
+                    "book": "8532520839"
+                },
+                {
+                    "title": "Arquitetura limpa: O guia do artesão para estrutura e design de software",
+                    "book": "8550804606"
+                },
+                {
+                    "title": "Técnicas de Invasão: Aprenda as técnicas usadas por hackers em invasões reais",
+                    "book": "6550440181"
+                },
+                {
+                    "title": "Inspirado: Como criar produtos de tecnologia que os clientes amam",
+                    "book": "8550813826"
+                },
+                {
+                    "title": "Hábitos dos milionários: Os segredos por trás das maiores fortunas do mundo",
+                    "book": "6587885039"
+                },
+                {
+                    "title": "Sozinho ao Redor do Mundo",
+                    "book": "655660111X"
+                },
+                {
+                    "title": "Férias na Antártica",
+                    "book": "8575963600"
+                },
+                {
+                    "title": "Anatomia Artistica 2: Como desenhar o corpo humano de forma esquemática",
+                    "book": "6588280084"
+                },
+                {
+                    "title": "Em mim basta!: O poder de pular fora quando nada mais faz sentido",
+                    "book": "6550471419"
+                },
+                {
+                    "title": "2041: Como a inteligência artificial vai mudar sua vida nas próximas décadas",
+                    "book": "6559870537"
+                },
+                {
+                    "title": "Leis da Psicologia Aplicadas a UX: Usando Psicologia Para Projetar Produtos e Serviços Melhores",
+                    "book": "6586057256"
+                },
+                {
+                    "title": "Arte de projetar em arquitetura",
+                    "book": "8582605757"
+                },
+                {
+                    "title": "Ayrton Senna: Uma Lenda a Toda Velocidade: Uma Jornada Interativa",
+                    "book": "8526013718"
+                },
+                {
+                    "title": "O livro da biologia",
+                    "book": "6559870499"
+                },
+                {
+                    "title": "Meu Primeiro Dicionário Ilustrado de Inglês",
+                    "book": "8533913176"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Erótico",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Grandes Obras de H.P Lovecraft | Box com 4 Livros",
+                    "book": "658092148X"
+                },
+                {
+                    "title": "Deuses de Neon: Livro I da Série Dark Olympus",
+                    "book": "6555663421"
+                },
+                {
+                    "title": "O jogo do amor \"Ódio\"",
+                    "book": "855030266X"
+                },
+                {
+                    "title": "Deus fez tudo em mim: Um livro para ajudar as crianças a protegerem seus corpos",
+                    "book": "8581326471"
+                },
+                {
+                    "title": "Amor Corrompido (Twisted Love) com brinde (fotos instantâneas)",
+                    "book": "8542221613"
+                },
+                {
+                    "title": "Grandes Obras de H.P Lovecraft | Box com 4 Livros",
+                    "book": "658092148X"
+                },
+                {
+                    "title": "Talvez um dia",
+                    "book": "8501050318"
+                },
+                {
+                    "title": "Deuses de Neon + Brindes: Livro I da Série Dark Olympus",
+                    "book": "655566343X"
+                },
+                {
+                    "title": "Box Trilogia dos Príncipes",
+                    "book": "8501304433"
+                },
+                {
+                    "title": "Belo desastre: 1",
+                    "book": "8576861917"
+                },
+                {
+                    "title": "A arte da sedução",
+                    "book": "6555322047"
+                },
+                {
+                    "title": "Sexo no cativeiro (Nova edição): Como manter a paixão nos relacionamentos",
+                    "book": "8547000690"
+                },
+                {
+                    "title": "Mister",
+                    "book": "8551005154"
+                },
+                {
+                    "title": "Gild - Fantasia sensação no TikTok: 1: Livro 1 da Série A Prisioneira dourada",
+                    "book": "6555662921"
+                },
+                {
+                    "title": "Noivas em fuga",
+                    "book": "6586553415"
+                },
+                {
+                    "title": "Livre: Cinquenta Tons de Liberdade Pelos Olhos de Christian: 3",
+                    "book": "6555602422"
+                },
+                {
+                    "title": "A arte de gozar: Amor, sexo e tesão na maturidade",
+                    "book": "6555876468"
+                },
+                {
+                    "title": "Através da minha janela: Os irmãos Hidalgo vol. 1",
+                    "book": "6555605111"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Grandes Obras de H.P Lovecraft | Box com 4 Livros",
+                    "book": "658092148X"
+                },
+                {
+                    "title": "Deuses de Neon: Livro I da Série Dark Olympus",
+                    "book": "6555663421"
+                },
+                {
+                    "title": "O jogo do amor \"Ódio\"",
+                    "book": "855030266X"
+                },
+                {
+                    "title": "Deus fez tudo em mim: Um livro para ajudar as crianças a protegerem seus corpos",
+                    "book": "8581326471"
+                },
+                {
+                    "title": "Amor Corrompido (Twisted Love) com brinde (fotos instantâneas)",
+                    "book": "8542221613"
+                },
+                {
+                    "title": "Grandes Obras de H.P Lovecraft | Box com 4 Livros",
+                    "book": "658092148X"
+                },
+                {
+                    "title": "Talvez um dia",
+                    "book": "8501050318"
+                },
+                {
+                    "title": "Deuses de Neon + Brindes: Livro I da Série Dark Olympus",
+                    "book": "655566343X"
+                },
+                {
+                    "title": "Box Trilogia dos Príncipes",
+                    "book": "8501304433"
+                },
+                {
+                    "title": "Belo desastre: 1",
+                    "book": "8576861917"
+                },
+                {
+                    "title": "A arte da sedução",
+                    "book": "6555322047"
+                },
+                {
+                    "title": "Sexo no cativeiro (Nova edição): Como manter a paixão nos relacionamentos",
+                    "book": "8547000690"
+                },
+                {
+                    "title": "Mister",
+                    "book": "8551005154"
+                },
+                {
+                    "title": "Gild - Fantasia sensação no TikTok: 1: Livro 1 da Série A Prisioneira dourada",
+                    "book": "6555662921"
+                },
+                {
+                    "title": "Noivas em fuga",
+                    "book": "6586553415"
+                },
+                {
+                    "title": "Livre: Cinquenta Tons de Liberdade Pelos Olhos de Christian: 3",
+                    "book": "6555602422"
+                },
+                {
+                    "title": "A arte de gozar: Amor, sexo e tesão na maturidade",
+                    "book": "6555876468"
+                },
+                {
+                    "title": "Através da minha janela: Os irmãos Hidalgo vol. 1",
+                    "book": "6555605111"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Esportes e Lazer",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "A Mágica da Respiração: Um livro para aprender a lidar com raiva, frustração, tristeza e todos os outros sentimentos",
+                    "book": "6586742021"
+                },
+                {
+                    "title": "Felicidade: Ciência e prática para uma vida feliz",
+                    "book": "8563083023"
+                },
+                {
+                    "title": "Em busca de nós mesmos",
+                    "book": "8568014453"
+                },
+                {
+                    "title": "Cabeça Fria, Coração Quente: Uma viagem pelos bastidores da equipa técnica: segredos, reflexões e métodos de trabalho revelados em primeira pessoa",
+                    "book": "6599096387"
+                },
+                {
+                    "title": "Você aguenta ser feliz?: Como cuidar da saúde mental e física para ter qualidade de vida",
+                    "book": "6555644664"
+                },
+                {
+                    "title": "A queda do céu",
+                    "book": "8535926208"
+                },
+                {
+                    "title": "Guia de sobrevivência na natureza (Manual do Mundo)",
+                    "book": "6555644761"
+                },
+                {
+                    "title": "Volta extra: Temporada 2022: Cabeça Fria, Coração Quente",
+                    "book": "8566683145"
+                },
+                {
+                    "title": "O jogo interior do Tênis: O guia clássico para o lado mental da excelência no desempenho",
+                    "book": "6556600938"
+                },
+                {
+                    "title": "Álbum Capa Dura Copa Do Mundo Qatar 2022",
+                    "book": "6555161442"
+                },
+                {
+                    "title": "BRINCANDO DE ESCREVER - MATERNAL: CALIGRAFIA",
+                    "book": "8576618850"
+                },
+                {
+                    "title": "Blister Cartela C/ 10 Envelopes (50 unidades) de Figurinhas da Copa Do Mundo Qatar 2022",
+                    "book": "B0B5LSTMND"
+                },
+                {
+                    "title": "Bichinhos da Floresta Aquabook",
+                    "book": "8543219965"
+                },
+                {
+                    "title": "Charles Darwin - A Origem das Espécies",
+                    "book": "8552100150"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "A Mágica da Respiração: Um livro para aprender a lidar com raiva, frustração, tristeza e todos os outros sentimentos",
+                    "book": "6586742021"
+                },
+                {
+                    "title": "Felicidade: Ciência e prática para uma vida feliz",
+                    "book": "8563083023"
+                },
+                {
+                    "title": "Em busca de nós mesmos",
+                    "book": "8568014453"
+                },
+                {
+                    "title": "Cabeça Fria, Coração Quente: Uma viagem pelos bastidores da equipa técnica: segredos, reflexões e métodos de trabalho revelados em primeira pessoa",
+                    "book": "6599096387"
+                },
+                {
+                    "title": "Você aguenta ser feliz?: Como cuidar da saúde mental e física para ter qualidade de vida",
+                    "book": "6555644664"
+                },
+                {
+                    "title": "A queda do céu",
+                    "book": "8535926208"
+                },
+                {
+                    "title": "Guia de sobrevivência na natureza (Manual do Mundo)",
+                    "book": "6555644761"
+                },
+                {
+                    "title": "Volta extra: Temporada 2022: Cabeça Fria, Coração Quente",
+                    "book": "8566683145"
+                },
+                {
+                    "title": "O jogo interior do Tênis: O guia clássico para o lado mental da excelência no desempenho",
+                    "book": "6556600938"
+                },
+                {
+                    "title": "Álbum Capa Dura Copa Do Mundo Qatar 2022",
+                    "book": "6555161442"
+                },
+                {
+                    "title": "BRINCANDO DE ESCREVER - MATERNAL: CALIGRAFIA",
+                    "book": "8576618850"
+                },
+                {
+                    "title": "Blister Cartela C/ 10 Envelopes (50 unidades) de Figurinhas da Copa Do Mundo Qatar 2022",
+                    "book": "B0B5LSTMND"
+                },
+                {
+                    "title": "Bichinhos da Floresta Aquabook",
+                    "book": "8543219965"
+                },
+                {
+                    "title": "Charles Darwin - A Origem das Espécies",
+                    "book": "8552100150"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Fantasia, Horror e Ficção Científica",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "A Biblioteca da Meia-Noite",
+                    "book": "6558380544"
+                },
+                {
+                    "title": "Mentirosos – Sucesso no TikTok",
+                    "book": "8565765482"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "Salvar o fogo - EDIÇÃO CAPA DURA",
+                    "book": "6556924172"
+                },
+                {
+                    "title": "A garota do lago",
+                    "book": "856240988X"
+                },
+                {
+                    "title": "Torto arado",
+                    "book": "6580309318"
+                },
+                {
+                    "title": "A vida invisível de Addie LaRue",
+                    "book": "6555872551"
+                },
+                {
+                    "title": "O Hobbit + pôster",
+                    "book": "8595084742"
+                },
+                {
+                    "title": "Box O povo do ar - acompanha brindes",
+                    "book": "8501304468"
+                },
+                {
+                    "title": "As Crônicas de Nárnia. Brochura",
+                    "book": "857827069X"
+                },
+                {
+                    "title": "A Mandíbula de Caim - Edição Bilíngue",
+                    "book": "6585168054"
+                },
+                {
+                    "title": "Admirável mundo novo",
+                    "book": "8525056006"
+                },
+                {
+                    "title": "O pequeno príncipe (Original): Tradução original com aquarelas do autor",
+                    "book": "8595081514"
+                },
+                {
+                    "title": "Box Trilogia O Senhor dos Anéis",
+                    "book": "8595086354"
+                },
+                {
+                    "title": "Kit De Sangue e Cinzas",
+                    "book": "8501305774"
+                },
+                {
+                    "title": "Saboroso Cadáver",
+                    "book": "6555981881"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "A Biblioteca da Meia-Noite",
+                    "book": "6558380544"
+                },
+                {
+                    "title": "Mentirosos – Sucesso no TikTok",
+                    "book": "8565765482"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "Salvar o fogo - EDIÇÃO CAPA DURA",
+                    "book": "6556924172"
+                },
+                {
+                    "title": "A garota do lago",
+                    "book": "856240988X"
+                },
+                {
+                    "title": "Torto arado",
+                    "book": "6580309318"
+                },
+                {
+                    "title": "A vida invisível de Addie LaRue",
+                    "book": "6555872551"
+                },
+                {
+                    "title": "O Hobbit + pôster",
+                    "book": "8595084742"
+                },
+                {
+                    "title": "Box O povo do ar - acompanha brindes",
+                    "book": "8501304468"
+                },
+                {
+                    "title": "As Crônicas de Nárnia. Brochura",
+                    "book": "857827069X"
+                },
+                {
+                    "title": "A Mandíbula de Caim - Edição Bilíngue",
+                    "book": "6585168054"
+                },
+                {
+                    "title": "Admirável mundo novo",
+                    "book": "8525056006"
+                },
+                {
+                    "title": "O pequeno príncipe (Original): Tradução original com aquarelas do autor",
+                    "book": "8595081514"
+                },
+                {
+                    "title": "Box Trilogia O Senhor dos Anéis",
+                    "book": "8595086354"
+                },
+                {
+                    "title": "Kit De Sangue e Cinzas",
+                    "book": "8501305774"
+                },
+                {
+                    "title": "Saboroso Cadáver",
+                    "book": "6555981881"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Gastronomia e Culinária",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Sal, gordura, ácido, calor: Os elementos da boa cozinha",
+                    "book": "8592754143"
+                },
+                {
+                    "title": "Sous Vide e Churrasco",
+                    "book": "658649365X"
+                },
+                {
+                    "title": "Comida de bebê: uma introdução a comida de verdade",
+                    "book": "8539613298"
+                },
+                {
+                    "title": "O que tem na geladeira?: 30 legumes e verduras em mais de 200 receitas para variar o cardápio",
+                    "book": "6555361069"
+                },
+                {
+                    "title": "Sal, gordura, ácido, calor: Os elementos da boa cozinha",
+                    "book": "8592754143"
+                },
+                {
+                    "title": "Le Cordon Bleu : Todas as técnicas culinárias",
+                    "book": "8527902958"
+                },
+                {
+                    "title": "O Livro de Receitas de Harry Potter: Dos Bolos de Caldeirão à Cerveja Amanteigada – Mais de 150 receitas para bruxos e trouxas",
+                    "book": "6555371676"
+                },
+                {
+                    "title": "O Guia Essencial do Vinho: Wine Folly: Wine Folly",
+                    "book": "8551000241"
+                },
+                {
+                    "title": "Chef profissional",
+                    "book": "8539607492"
+                },
+                {
+                    "title": "Só para um: alimentação saudável para quem mora sozinho: 3",
+                    "book": "8539629518"
+                },
+                {
+                    "title": "Pequeno Dicionário de Gastronomia",
+                    "book": "6586493889"
+                },
+                {
+                    "title": "Sabores de Gabriela: a Culinária Baiana de Isis Rangel",
+                    "book": "6586493676"
+                },
+                {
+                    "title": "Rita, Help! Me ensina a cozinhar",
+                    "book": "6555362022"
+                },
+                {
+                    "title": "Simples: 130 receitas fáceis e rápidas",
+                    "book": "6586384001"
+                },
+                {
+                    "title": "Todas as Sextas",
+                    "book": "850607908X"
+                },
+                {
+                    "title": "Veganismo descomplicado: Manual para um modo de viver sustentável, barato e saudável",
+                    "book": "6555357339"
+                },
+                {
+                    "title": "Longevidade: Nutrição e ayurveda para um envelhecer ativo",
+                    "book": "6555321709"
+                },
+                {
+                    "title": "A pessoa mais feliz do mundo: Como a conquista de um intestino saudável me ajudou a superar uma doença crônica",
+                    "book": "6588370814"
+                },
+                {
+                    "title": "Da botica ao boteco: Plantas, garrafadas e a coquetelaria brasileira",
+                    "book": "6586384125"
+                },
+                {
+                    "title": "Alimentação sem carne: Um guia prático para montar a sua dieta vegetariana com saúde",
+                    "book": "8578812980"
+                },
+                {
+                    "title": "La Mère Brazier: a mãe da cozinha francesa moderna",
+                    "book": "8577563251"
+                },
+                {
+                    "title": "Receitas do Favela Orgânica: Aproveitamento Integral de Alimentos",
+                    "book": "6586493692"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Sal, gordura, ácido, calor: Os elementos da boa cozinha",
+                    "book": "8592754143"
+                },
+                {
+                    "title": "Sous Vide e Churrasco",
+                    "book": "658649365X"
+                },
+                {
+                    "title": "Comida de bebê: uma introdução a comida de verdade",
+                    "book": "8539613298"
+                },
+                {
+                    "title": "O que tem na geladeira?: 30 legumes e verduras em mais de 200 receitas para variar o cardápio",
+                    "book": "6555361069"
+                },
+                {
+                    "title": "Sal, gordura, ácido, calor: Os elementos da boa cozinha",
+                    "book": "8592754143"
+                },
+                {
+                    "title": "Le Cordon Bleu : Todas as técnicas culinárias",
+                    "book": "8527902958"
+                },
+                {
+                    "title": "O Livro de Receitas de Harry Potter: Dos Bolos de Caldeirão à Cerveja Amanteigada – Mais de 150 receitas para bruxos e trouxas",
+                    "book": "6555371676"
+                },
+                {
+                    "title": "O Guia Essencial do Vinho: Wine Folly: Wine Folly",
+                    "book": "8551000241"
+                },
+                {
+                    "title": "Chef profissional",
+                    "book": "8539607492"
+                },
+                {
+                    "title": "Só para um: alimentação saudável para quem mora sozinho: 3",
+                    "book": "8539629518"
+                },
+                {
+                    "title": "Pequeno Dicionário de Gastronomia",
+                    "book": "6586493889"
+                },
+                {
+                    "title": "Sabores de Gabriela: a Culinária Baiana de Isis Rangel",
+                    "book": "6586493676"
+                },
+                {
+                    "title": "Rita, Help! Me ensina a cozinhar",
+                    "book": "6555362022"
+                },
+                {
+                    "title": "Simples: 130 receitas fáceis e rápidas",
+                    "book": "6586384001"
+                },
+                {
+                    "title": "Todas as Sextas",
+                    "book": "850607908X"
+                },
+                {
+                    "title": "Veganismo descomplicado: Manual para um modo de viver sustentável, barato e saudável",
+                    "book": "6555357339"
+                },
+                {
+                    "title": "Longevidade: Nutrição e ayurveda para um envelhecer ativo",
+                    "book": "6555321709"
+                },
+                {
+                    "title": "A pessoa mais feliz do mundo: Como a conquista de um intestino saudável me ajudou a superar uma doença crônica",
+                    "book": "6588370814"
+                },
+                {
+                    "title": "Da botica ao boteco: Plantas, garrafadas e a coquetelaria brasileira",
+                    "book": "6586384125"
+                },
+                {
+                    "title": "Alimentação sem carne: Um guia prático para montar a sua dieta vegetariana com saúde",
+                    "book": "8578812980"
+                },
+                {
+                    "title": "La Mère Brazier: a mãe da cozinha francesa moderna",
+                    "book": "8577563251"
+                },
+                {
+                    "title": "Receitas do Favela Orgânica: Aproveitamento Integral de Alimentos",
+                    "book": "6586493692"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "História",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "O despertar de tudo: Uma nova história da humanidade",
+                    "book": "655921172X"
+                },
+                {
+                    "title": "Império de Verdades: a história da fundação do Brasil contada por um membro da família imperial brasileira",
+                    "book": "6586029902"
+                },
+                {
+                    "title": "Sapiens (Nova edição): Uma breve história da humanidade",
+                    "book": "8535933921"
+                },
+                {
+                    "title": "Biblioteca Estoica | Grandes Mestres - Box com 4 livros",
+                    "book": "6580921609"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "A ciranda das mulheres sábias: Ser jovem enquanto velha, velha enquanto jovem",
+                    "book": "8532521509"
+                },
+                {
+                    "title": "Manifesto do Partido Comunista: Com todos os prefácios de Marx e Engels e os Estatutos da Liga dos Comunistas",
+                    "book": "857283902X"
+                },
+                {
+                    "title": "China: O socialismo do século XXI",
+                    "book": "6557171097"
+                },
+                {
+                    "title": "21 lições para o século 21",
+                    "book": "8535930914"
+                },
+                {
+                    "title": "Egito Secreto",
+                    "book": "6589732108"
+                },
+                {
+                    "title": "Neil Armstrong a Biografia do Primeiro Homem a Pisar na Lua",
+                    "book": "8584190805"
+                },
+                {
+                    "title": "Meu Primeiro Livro de Animais",
+                    "book": "8595201617"
+                },
+                {
+                    "title": "Escravidão - Volume 2: Da corrida do ouro em Minas Gerais até a chegada da corte de dom João ao Brasil",
+                    "book": "6555670398"
+                },
+                {
+                    "title": "Escravidão – Volume 1: Do primeiro leilão de cativos em Portugal até a morte de Zumbi dos Palmares",
+                    "book": "6580634014"
+                },
+                {
+                    "title": "Escravidão - Volume 3: Da Independência do Brasil à Lei Áurea",
+                    "book": "6559870529"
+                },
+                {
+                    "title": "Estas verdades: A história de formação dos Estados Unidos",
+                    "book": "6555600616"
+                },
+                {
+                    "title": "O despertar de tudo: Uma nova história da humanidade",
+                    "book": "655921172X"
+                },
+                {
+                    "title": "A bailarina de Auschwitz",
+                    "book": "8543107245"
+                },
+                {
+                    "title": "Latim em pó: Um passeio pela formação do nosso português",
+                    "book": "6559213536"
+                },
+                {
+                    "title": "As cruzadas vistas pelos árabes",
+                    "book": "8554126939"
+                },
+                {
+                    "title": "O naufrágio das civilizações: Um olhar profundo sobre o nosso tempo para entender três feridas do mundo moderno: os conflitos identitários, o islamismo radical e o ultraliberalismo: 2",
+                    "book": "8554126785"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "O despertar de tudo: Uma nova história da humanidade",
+                    "book": "655921172X"
+                },
+                {
+                    "title": "Império de Verdades: a história da fundação do Brasil contada por um membro da família imperial brasileira",
+                    "book": "6586029902"
+                },
+                {
+                    "title": "Sapiens (Nova edição): Uma breve história da humanidade",
+                    "book": "8535933921"
+                },
+                {
+                    "title": "Biblioteca Estoica | Grandes Mestres - Box com 4 livros",
+                    "book": "6580921609"
+                },
+                {
+                    "title": "Meditações: Edição com postais + marcador (Coleção Grandes Mestres do Estoicismo)",
+                    "book": "8552100916"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "A ciranda das mulheres sábias: Ser jovem enquanto velha, velha enquanto jovem",
+                    "book": "8532521509"
+                },
+                {
+                    "title": "Manifesto do Partido Comunista: Com todos os prefácios de Marx e Engels e os Estatutos da Liga dos Comunistas",
+                    "book": "857283902X"
+                },
+                {
+                    "title": "China: O socialismo do século XXI",
+                    "book": "6557171097"
+                },
+                {
+                    "title": "21 lições para o século 21",
+                    "book": "8535930914"
+                },
+                {
+                    "title": "Egito Secreto",
+                    "book": "6589732108"
+                },
+                {
+                    "title": "Neil Armstrong a Biografia do Primeiro Homem a Pisar na Lua",
+                    "book": "8584190805"
+                },
+                {
+                    "title": "Meu Primeiro Livro de Animais",
+                    "book": "8595201617"
+                },
+                {
+                    "title": "Escravidão - Volume 2: Da corrida do ouro em Minas Gerais até a chegada da corte de dom João ao Brasil",
+                    "book": "6555670398"
+                },
+                {
+                    "title": "Escravidão – Volume 1: Do primeiro leilão de cativos em Portugal até a morte de Zumbi dos Palmares",
+                    "book": "6580634014"
+                },
+                {
+                    "title": "Escravidão - Volume 3: Da Independência do Brasil à Lei Áurea",
+                    "book": "6559870529"
+                },
+                {
+                    "title": "Estas verdades: A história de formação dos Estados Unidos",
+                    "book": "6555600616"
+                },
+                {
+                    "title": "O despertar de tudo: Uma nova história da humanidade",
+                    "book": "655921172X"
+                },
+                {
+                    "title": "A bailarina de Auschwitz",
+                    "book": "8543107245"
+                },
+                {
+                    "title": "Latim em pó: Um passeio pela formação do nosso português",
+                    "book": "6559213536"
+                },
+                {
+                    "title": "As cruzadas vistas pelos árabes",
+                    "book": "8554126939"
+                },
+                {
+                    "title": "O naufrágio das civilizações: Um olhar profundo sobre o nosso tempo para entender três feridas do mundo moderno: os conflitos identitários, o islamismo radical e o ultraliberalismo: 2",
+                    "book": "8554126785"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "HQs, Mangás e Graphic Novels",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Boa Noite Punpun - Vol. 5",
+                    "book": "8545711182"
+                },
+                {
+                    "title": "Boa Noite Punpun - Vol. 7",
+                    "book": "8545712278"
+                },
+                {
+                    "title": "Neon Genesis Evangelion Collector's Edition Vol. 02",
+                    "book": "6555944285"
+                },
+                {
+                    "title": "Verões Felizes (Edição Integral Definitiva)",
+                    "book": "6554480366"
+                },
+                {
+                    "title": "Semantic Error: Livro 1",
+                    "book": "8583623368"
+                },
+                {
+                    "title": "Mortos de Amor (mangá volume único)",
+                    "book": "6554480250"
+                },
+                {
+                    "title": "One Piece Vol. 4",
+                    "book": "8573519037"
+                },
+                {
+                    "title": "Morada do Desertor (mangá volume único)",
+                    "book": "6554480218"
+                },
+                {
+                    "title": "Inuyasha Vol. 07 - Wideban",
+                    "book": "6555944439"
+                },
+                {
+                    "title": "Jujutsu Kaisen - Batalha De Feiticeiros - 21",
+                    "book": "6525912881"
+                },
+                {
+                    "title": "Heartstopper: De mãos dadas (vol. 4): Inspiração para a série da Netflix",
+                    "book": "8555342066"
+                },
+                {
+                    "title": "Heartstopper: Um passo adiante (vol. 3): Inspiração para a série da Netflix",
+                    "book": "8555341922"
+                },
+                {
+                    "title": "O Estranho Conto da Ilha Panorama (mangá volume único)",
+                    "book": "655448034X"
+                },
+                {
+                    "title": "Bórgia (Graphic Novel Volume Único)",
+                    "book": "6554480234"
+                },
+                {
+                    "title": "One Piece Vol. 2",
+                    "book": "8573518847"
+                },
+                {
+                    "title": "One Piece Vol. 1",
+                    "book": "8573516976"
+                },
+                {
+                    "title": "Fruits Basket - Edição de Colecionador - Vol. 12",
+                    "book": "6555943750"
+                },
+                {
+                    "title": "Hokuto No Ken - Fist of the North Star - Vol.18",
+                    "book": "6555944080"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Boa Noite Punpun - Vol. 5",
+                    "book": "8545711182"
+                },
+                {
+                    "title": "Boa Noite Punpun - Vol. 7",
+                    "book": "8545712278"
+                },
+                {
+                    "title": "Neon Genesis Evangelion Collector's Edition Vol. 02",
+                    "book": "6555944285"
+                },
+                {
+                    "title": "Verões Felizes (Edição Integral Definitiva)",
+                    "book": "6554480366"
+                },
+                {
+                    "title": "Semantic Error: Livro 1",
+                    "book": "8583623368"
+                },
+                {
+                    "title": "Mortos de Amor (mangá volume único)",
+                    "book": "6554480250"
+                },
+                {
+                    "title": "One Piece Vol. 4",
+                    "book": "8573519037"
+                },
+                {
+                    "title": "Morada do Desertor (mangá volume único)",
+                    "book": "6554480218"
+                },
+                {
+                    "title": "Inuyasha Vol. 07 - Wideban",
+                    "book": "6555944439"
+                },
+                {
+                    "title": "Jujutsu Kaisen - Batalha De Feiticeiros - 21",
+                    "book": "6525912881"
+                },
+                {
+                    "title": "Heartstopper: De mãos dadas (vol. 4): Inspiração para a série da Netflix",
+                    "book": "8555342066"
+                },
+                {
+                    "title": "Heartstopper: Um passo adiante (vol. 3): Inspiração para a série da Netflix",
+                    "book": "8555341922"
+                },
+                {
+                    "title": "O Estranho Conto da Ilha Panorama (mangá volume único)",
+                    "book": "655448034X"
+                },
+                {
+                    "title": "Bórgia (Graphic Novel Volume Único)",
+                    "book": "6554480234"
+                },
+                {
+                    "title": "One Piece Vol. 2",
+                    "book": "8573518847"
+                },
+                {
+                    "title": "One Piece Vol. 1",
+                    "book": "8573516976"
+                },
+                {
+                    "title": "Fruits Basket - Edição de Colecionador - Vol. 12",
+                    "book": "6555943750"
+                },
+                {
+                    "title": "Hokuto No Ken - Fist of the North Star - Vol.18",
+                    "book": "6555944080"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Infantil",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Quem soltou o pum?",
+                    "book": "8574064467"
+                },
+                {
+                    "title": "A árvore generosa",
+                    "book": "8574067539"
+                },
+                {
+                    "title": "Muito cansado e bem acordado",
+                    "book": "8574068012"
+                },
+                {
+                    "title": "Minhas 100 primeiras palavras",
+                    "book": "8538060872"
+                },
+                {
+                    "title": "Conhecendo os sons da fazenda: Vaquinha",
+                    "book": "8581021948"
+                },
+                {
+                    "title": "Aprenda em Casa Caligrafia: Coordenação Motora",
+                    "book": "8533100566"
+                },
+                {
+                    "title": "One Piece Vol. 4",
+                    "book": "8573519037"
+                },
+                {
+                    "title": "Pré-Escrita - Coleção Aprenda em Casa",
+                    "book": "8537631183"
+                },
+                {
+                    "title": "365 Historias Bíblicas",
+                    "book": "8595200629"
+                },
+                {
+                    "title": "Letra cursiva",
+                    "book": "8538068571"
+                },
+                {
+                    "title": "Clube de arte infinita: carimbos: 2",
+                    "book": "6555510153"
+                },
+                {
+                    "title": "Meu primeiro livro de confeitaria: 1",
+                    "book": "9876376551"
+                },
+                {
+                    "title": "One Piece Vol. 2",
+                    "book": "8573518847"
+                },
+                {
+                    "title": "One Piece Vol. 1",
+                    "book": "8573516976"
+                },
+                {
+                    "title": "O Bom Dinossauro - Coleção Minhas Primeiras Histórias",
+                    "book": "8533938748"
+                },
+                {
+                    "title": "A árvore generosa",
+                    "book": "8574067539"
+                },
+                {
+                    "title": "Turma da Mônica - Vamos aprender o alfabeto",
+                    "book": "8538076205"
+                },
+                {
+                    "title": "Quem soltou o pum?",
+                    "book": "8574064467"
+                },
+                {
+                    "title": "O Monstro das Cores",
+                    "book": "8595260087"
+                },
+                {
+                    "title": "Droga Da Obediência (a)",
+                    "book": "8516095762"
+                },
+                {
+                    "title": "Bluey Prancheta para Colorir com Atividades",
+                    "book": "6555477687"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Quem soltou o pum?",
+                    "book": "8574064467"
+                },
+                {
+                    "title": "A árvore generosa",
+                    "book": "8574067539"
+                },
+                {
+                    "title": "Muito cansado e bem acordado",
+                    "book": "8574068012"
+                },
+                {
+                    "title": "Minhas 100 primeiras palavras",
+                    "book": "8538060872"
+                },
+                {
+                    "title": "Conhecendo os sons da fazenda: Vaquinha",
+                    "book": "8581021948"
+                },
+                {
+                    "title": "Aprenda em Casa Caligrafia: Coordenação Motora",
+                    "book": "8533100566"
+                },
+                {
+                    "title": "One Piece Vol. 4",
+                    "book": "8573519037"
+                },
+                {
+                    "title": "Pré-Escrita - Coleção Aprenda em Casa",
+                    "book": "8537631183"
+                },
+                {
+                    "title": "365 Historias Bíblicas",
+                    "book": "8595200629"
+                },
+                {
+                    "title": "Letra cursiva",
+                    "book": "8538068571"
+                },
+                {
+                    "title": "Clube de arte infinita: carimbos: 2",
+                    "book": "6555510153"
+                },
+                {
+                    "title": "Meu primeiro livro de confeitaria: 1",
+                    "book": "9876376551"
+                },
+                {
+                    "title": "One Piece Vol. 2",
+                    "book": "8573518847"
+                },
+                {
+                    "title": "One Piece Vol. 1",
+                    "book": "8573516976"
+                },
+                {
+                    "title": "O Bom Dinossauro - Coleção Minhas Primeiras Histórias",
+                    "book": "8533938748"
+                },
+                {
+                    "title": "A árvore generosa",
+                    "book": "8574067539"
+                },
+                {
+                    "title": "Turma da Mônica - Vamos aprender o alfabeto",
+                    "book": "8538076205"
+                },
+                {
+                    "title": "Quem soltou o pum?",
+                    "book": "8574064467"
+                },
+                {
+                    "title": "O Monstro das Cores",
+                    "book": "8595260087"
+                },
+                {
+                    "title": "Droga Da Obediência (a)",
+                    "book": "8516095762"
+                },
+                {
+                    "title": "Bluey Prancheta para Colorir com Atividades",
+                    "book": "6555477687"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "LGBTQ+",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Diversidade e inclusão: e suas dimensões",
+                    "book": "Diversidade"
+                },
+                {
+                    "title": "Procura-se um namorado – Sucesso no TikTok",
+                    "book": "858439267X"
+                },
+                {
+                    "title": "Textos para tocar cicatrizes - Textos cruéis demais",
+                    "book": "6588131712"
+                },
+                {
+                    "title": "Semantic Error: Livro 1",
+                    "book": "8583623368"
+                },
+                {
+                    "title": "Oxe, baby",
+                    "book": "6559810429"
+                },
+                {
+                    "title": "A canção de Aquiles (Sucesso do TikTok): A aclamada releitura da Ilíada",
+                    "book": "6555354186"
+                },
+                {
+                    "title": "O amor não é óbvio",
+                    "book": "8501118265"
+                },
+                {
+                    "title": "É assim que se perde a guerra do tempo",
+                    "book": "8556511082"
+                },
+                {
+                    "title": "Box Coleção Alice Oseman (3 livros)",
+                    "book": "6555322713"
+                },
+                {
+                    "title": "A palavra que resta",
+                    "book": "6559210286"
+                },
+                {
+                    "title": "É assim que se perde a guerra do tempo",
+                    "book": "8556511082"
+                },
+                {
+                    "title": "Psicanálise e homossexualidades: teoria, clínica e biopolítica",
+                    "book": "8544405290"
+                },
+                {
+                    "title": "O parque das irmãs magníficas",
+                    "book": "655535402X"
+                },
+                {
+                    "title": "Fence (Vol. 2) + BRINDES",
+                    "book": "8501306495"
+                },
+                {
+                    "title": "Ela fica com a garota",
+                    "book": "6588131569"
+                },
+                {
+                    "title": "Fence Vol. 1 (acompanha brindes)",
+                    "book": "8501306347"
+                },
+                {
+                    "title": "A casa no mar cerúleo",
+                    "book": "6586015464"
+                },
+                {
+                    "title": "Luzes do Norte",
+                    "book": "6559810836"
+                },
+                {
+                    "title": "Procura-se um namorado – Sucesso no TikTok",
+                    "book": "858439267X"
+                },
+                {
+                    "title": "O beijo do rio",
+                    "book": "6555113685"
+                },
+                {
+                    "title": "Agora esse é o nosso mundo",
+                    "book": "6559572587"
+                },
+                {
+                    "title": "Não quero ser como você",
+                    "book": "6555662603"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Diversidade e inclusão: e suas dimensões",
+                    "book": "Diversidade"
+                },
+                {
+                    "title": "Procura-se um namorado – Sucesso no TikTok",
+                    "book": "858439267X"
+                },
+                {
+                    "title": "Textos para tocar cicatrizes - Textos cruéis demais",
+                    "book": "6588131712"
+                },
+                {
+                    "title": "Semantic Error: Livro 1",
+                    "book": "8583623368"
+                },
+                {
+                    "title": "Oxe, baby",
+                    "book": "6559810429"
+                },
+                {
+                    "title": "A canção de Aquiles (Sucesso do TikTok): A aclamada releitura da Ilíada",
+                    "book": "6555354186"
+                },
+                {
+                    "title": "O amor não é óbvio",
+                    "book": "8501118265"
+                },
+                {
+                    "title": "É assim que se perde a guerra do tempo",
+                    "book": "8556511082"
+                },
+                {
+                    "title": "Box Coleção Alice Oseman (3 livros)",
+                    "book": "6555322713"
+                },
+                {
+                    "title": "A palavra que resta",
+                    "book": "6559210286"
+                },
+                {
+                    "title": "É assim que se perde a guerra do tempo",
+                    "book": "8556511082"
+                },
+                {
+                    "title": "Psicanálise e homossexualidades: teoria, clínica e biopolítica",
+                    "book": "8544405290"
+                },
+                {
+                    "title": "O parque das irmãs magníficas",
+                    "book": "655535402X"
+                },
+                {
+                    "title": "Fence (Vol. 2) + BRINDES",
+                    "book": "8501306495"
+                },
+                {
+                    "title": "Ela fica com a garota",
+                    "book": "6588131569"
+                },
+                {
+                    "title": "Fence Vol. 1 (acompanha brindes)",
+                    "book": "8501306347"
+                },
+                {
+                    "title": "A casa no mar cerúleo",
+                    "book": "6586015464"
+                },
+                {
+                    "title": "Luzes do Norte",
+                    "book": "6559810836"
+                },
+                {
+                    "title": "Procura-se um namorado – Sucesso no TikTok",
+                    "book": "858439267X"
+                },
+                {
+                    "title": "O beijo do rio",
+                    "book": "6555113685"
+                },
+                {
+                    "title": "Agora esse é o nosso mundo",
+                    "book": "6559572587"
+                },
+                {
+                    "title": "Não quero ser como você",
+                    "book": "6555662603"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Literatura e Ficção",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Senhor das Moscas (Nova edição): Prêmio Nobel de Literatura",
+                    "book": "8556521223"
+                },
+                {
+                    "title": "A história secreta (Nova edição)",
+                    "book": "6559210464"
+                },
+                {
+                    "title": "É assim que começa (Vol. 2 É assim que acaba)",
+                    "book": "6559811395"
+                },
+                {
+                    "title": "É Assim que Acaba: 1",
+                    "book": "8501112518"
+                },
+                {
+                    "title": "A Biblioteca da Meia-Noite",
+                    "book": "6558380544"
+                },
+                {
+                    "title": "Perigoso!",
+                    "book": "8538058975"
+                },
+                {
+                    "title": "A mandíbula de Caim (edição com páginas destacáveis)",
+                    "book": "6555604425"
+                },
+                {
+                    "title": "Como fazer amigos e influenciar pessoas",
+                    "book": "8543108683"
+                },
+                {
+                    "title": "Tudo é rio",
+                    "book": "6555871784"
+                },
+                {
+                    "title": "Verity",
+                    "book": "8501117846"
+                },
+                {
+                    "title": "Star Wars: Kenobi",
+                    "book": "6556092495"
+                },
+                {
+                    "title": "Star Wars: A estrela cadente (The High Republic)",
+                    "book": "6556093157"
+                },
+                {
+                    "title": "Todas as suas (im)perfeições",
+                    "book": "8501117684"
+                },
+                {
+                    "title": "Mulheres que correm com os lobos: Mitos e histórias do arquétipo da Mulher Selvagem",
+                    "book": "853252978X"
+                },
+                {
+                    "title": "Os sete maridos de Evelyn Hugo",
+                    "book": "8584391509"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Até o verão terminar",
+                    "book": "6559810372"
+                },
+                {
+                    "title": "A paciente silenciosa",
+                    "book": "8501116432"
+                },
+                {
+                    "title": "Textos para tocar cicatrizes - Textos cruéis demais",
+                    "book": "6588131712"
+                },
+                {
+                    "title": "Daisy Jones and The Six: Uma história de amor e música",
+                    "book": "8584391401"
+                },
+                {
+                    "title": "A insustentável leveza do ser",
+                    "book": "8535912517"
+                },
+                {
+                    "title": "Contos completos",
+                    "book": "8535931694"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Senhor das Moscas (Nova edição): Prêmio Nobel de Literatura",
+                    "book": "8556521223"
+                },
+                {
+                    "title": "A história secreta (Nova edição)",
+                    "book": "6559210464"
+                },
+                {
+                    "title": "É assim que começa (Vol. 2 É assim que acaba)",
+                    "book": "6559811395"
+                },
+                {
+                    "title": "É Assim que Acaba: 1",
+                    "book": "8501112518"
+                },
+                {
+                    "title": "A Biblioteca da Meia-Noite",
+                    "book": "6558380544"
+                },
+                {
+                    "title": "Perigoso!",
+                    "book": "8538058975"
+                },
+                {
+                    "title": "A mandíbula de Caim (edição com páginas destacáveis)",
+                    "book": "6555604425"
+                },
+                {
+                    "title": "Como fazer amigos e influenciar pessoas",
+                    "book": "8543108683"
+                },
+                {
+                    "title": "Tudo é rio",
+                    "book": "6555871784"
+                },
+                {
+                    "title": "Verity",
+                    "book": "8501117846"
+                },
+                {
+                    "title": "Star Wars: Kenobi",
+                    "book": "6556092495"
+                },
+                {
+                    "title": "Star Wars: A estrela cadente (The High Republic)",
+                    "book": "6556093157"
+                },
+                {
+                    "title": "Todas as suas (im)perfeições",
+                    "book": "8501117684"
+                },
+                {
+                    "title": "Mulheres que correm com os lobos: Mitos e histórias do arquétipo da Mulher Selvagem",
+                    "book": "853252978X"
+                },
+                {
+                    "title": "Os sete maridos de Evelyn Hugo",
+                    "book": "8584391509"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Até o verão terminar",
+                    "book": "6559810372"
+                },
+                {
+                    "title": "A paciente silenciosa",
+                    "book": "8501116432"
+                },
+                {
+                    "title": "Textos para tocar cicatrizes - Textos cruéis demais",
+                    "book": "6588131712"
+                },
+                {
+                    "title": "Daisy Jones and The Six: Uma história de amor e música",
+                    "book": "8584391401"
+                },
+                {
+                    "title": "A insustentável leveza do ser",
+                    "book": "8535912517"
+                },
+                {
+                    "title": "Contos completos",
+                    "book": "8535931694"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Medicina",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "A cardiologia para formação do especialista",
+                    "book": "cardiologia"
+                },
+                {
+                    "title": "A Saúde de nossos filhos: Volume 1",
+                    "book": "6586098335"
+                },
+                {
+                    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o extraordinário",
+                    "book": "655047051X"
+                },
+                {
+                    "title": "O corpo fala: A linguagem silenciosa da comunicação não verbal",
+                    "book": "8532602088"
+                },
+                {
+                    "title": "Psicopatologia e Semiologia dos Transtornos Mentais",
+                    "book": "8582715056"
+                },
+                {
+                    "title": "Disciplina positiva para crianças de 0 a 3 anos: como criar filhos confiantes e capazes",
+                    "book": "8520456146"
+                },
+                {
+                    "title": "Netter Anatomia para Colorir",
+                    "book": "8535292195"
+                },
+                {
+                    "title": "Pacientes que curam: O cotidiano de uma médica do SUS",
+                    "book": "6558020017"
+                },
+                {
+                    "title": "Regulação Emocional em Psicoterapia: Um Guia para o Terapeuta Cognitivo-Comportamental",
+                    "book": "8565852865"
+                },
+                {
+                    "title": "Aprendendo a Terapia Cognitivo-Comportamental: Um Guia Ilustrado",
+                    "book": "8582715412"
+                },
+                {
+                    "title": "A Saúde de nossos filhos: Volume 2",
+                    "book": "6586098343"
+                },
+                {
+                    "title": "Charles Darwin - A Origem das Espécies",
+                    "book": "8552100150"
+                },
+                {
+                    "title": "Respire: A nova ciência de uma arte perdida",
+                    "book": "6555601744"
+                },
+                {
+                    "title": "Terapia Cognitiva Focada em Esquemas: Integração em Psicoterapia",
+                    "book": "858271257X"
+                },
+                {
+                    "title": "Netter - Atlas de Anatomia Humana 7ed",
+                    "book": "8535291024"
+                },
+                {
+                    "title": "Anatomia",
+                    "book": "8588749246"
+                },
+                {
+                    "title": "Terapia do Esquema: Guia de Técnicas Cognitivo-Comportamentais Inovadoras",
+                    "book": "8536314966"
+                },
+                {
+                    "title": "Neurociências: Desvendando o Sistema Nervoso",
+                    "book": "8582714327"
+                },
+                {
+                    "title": "Livre de Ansiedade",
+                    "book": "8536324295"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "A cardiologia para formação do especialista",
+                    "book": "cardiologia"
+                },
+                {
+                    "title": "A Saúde de nossos filhos: Volume 2",
+                    "book": "6586098343"
+                },
+                {
+                    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o extraordinário",
+                    "book": "655047051X"
+                },
+                {
+                    "title": "O corpo fala: A linguagem silenciosa da comunicação não verbal",
+                    "book": "8532602088"
+                },
+                {
+                    "title": "Psicopatologia e Semiologia dos Transtornos Mentais",
+                    "book": "8582715056"
+                },
+                {
+                    "title": "Disciplina positiva para crianças de 0 a 3 anos: como criar filhos confiantes e capazes",
+                    "book": "8520456146"
+                },
+                {
+                    "title": "Netter Anatomia para Colorir",
+                    "book": "8535292195"
+                },
+                {
+                    "title": "Pacientes que curam: O cotidiano de uma médica do SUS",
+                    "book": "6558020017"
+                },
+                {
+                    "title": "Regulação Emocional em Psicoterapia: Um Guia para o Terapeuta Cognitivo-Comportamental",
+                    "book": "8565852865"
+                },
+                {
+                    "title": "Aprendendo a Terapia Cognitivo-Comportamental: Um Guia Ilustrado",
+                    "book": "8582715412"
+                },
+                {
+                    "title": "A Saúde de nossos filhos: Volume 1",
+                    "book": "6586098335"
+                },
+                {
+                    "title": "Charles Darwin - A Origem das Espécies",
+                    "book": "8552100150"
+                },
+                {
+                    "title": "Respire: A nova ciência de uma arte perdida",
+                    "book": "6555601744"
+                },
+                {
+                    "title": "Terapia Cognitiva Focada em Esquemas: Integração em Psicoterapia",
+                    "book": "858271257X"
+                },
+                {
+                    "title": "Netter - Atlas de Anatomia Humana 7ed",
+                    "book": "8535291024"
+                },
+                {
+                    "title": "Anatomia",
+                    "book": "8588749246"
+                },
+                {
+                    "title": "Terapia do Esquema: Guia de Técnicas Cognitivo-Comportamentais Inovadoras",
+                    "book": "8536314966"
+                },
+                {
+                    "title": "Neurociências: Desvendando o Sistema Nervoso",
+                    "book": "8582714327"
+                },
+                {
+                    "title": "Livre de Ansiedade",
+                    "book": "8536324295"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Policial, Suspense e Mistério",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Verity",
+                    "book": "8501117846"
+                },
+                {
+                    "title": "A paciente silenciosa",
+                    "book": "8501116432"
+                },
+                {
+                    "title": "Jantar secreto",
+                    "book": "8535928359"
+                },
+                {
+                    "title": "E não sobrou nenhum",
+                    "book": "8525057010"
+                },
+                {
+                    "title": "O clube do crime das quintas-feiras: Edição especial com brindes e revista do Clube Intrínsecos: 1",
+                    "book": "6555600705"
+                },
+                {
+                    "title": "O vilarejo",
+                    "book": "8581053041"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "Joyland",
+                    "book": "8581052983"
+                },
+                {
+                    "title": "Suicidas",
+                    "book": "8535929444"
+                },
+                {
+                    "title": "O Colecionador: A espécie rara que faltava na coleção dos leitores brasileiros",
+                    "book": "8594541082"
+                },
+                {
+                    "title": "1984: Edição com Postais + marcador",
+                    "book": "6587034209"
+                },
+                {
+                    "title": "O Talentoso Ripley: Série Ripley - Livro 1",
+                    "book": "6555601868"
+                },
+                {
+                    "title": "Kit Um de nós (acompanha marcadores)",
+                    "book": "850130476X"
+                },
+                {
+                    "title": "Uma mulher no escuro",
+                    "book": "8535931767"
+                },
+                {
+                    "title": "Jurassic Park",
+                    "book": "8576575345"
+                },
+                {
+                    "title": "A última casa da rua Needless",
+                    "book": "6556220469"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Verity",
+                    "book": "8501117846"
+                },
+                {
+                    "title": "A paciente silenciosa",
+                    "book": "8501116432"
+                },
+                {
+                    "title": "Jantar secreto",
+                    "book": "8535928359"
+                },
+                {
+                    "title": "E não sobrou nenhum",
+                    "book": "8525057010"
+                },
+                {
+                    "title": "O clube do crime das quintas-feiras: Edição especial com brindes e revista do Clube Intrínsecos: 1",
+                    "book": "6555600705"
+                },
+                {
+                    "title": "O vilarejo",
+                    "book": "8581053041"
+                },
+                {
+                    "title": "Box Sherlock Holmes - Obra completa",
+                    "book": "8595080836"
+                },
+                {
+                    "title": "Joyland",
+                    "book": "8581052983"
+                },
+                {
+                    "title": "Suicidas",
+                    "book": "8535929444"
+                },
+                {
+                    "title": "O Colecionador: A espécie rara que faltava na coleção dos leitores brasileiros",
+                    "book": "8594541082"
+                },
+                {
+                    "title": "1984: Edição com Postais + marcador",
+                    "book": "6587034209"
+                },
+                {
+                    "title": "O Talentoso Ripley: Série Ripley - Livro 1",
+                    "book": "6555601868"
+                },
+                {
+                    "title": "Kit Um de nós (acompanha marcadores)",
+                    "book": "850130476X"
+                },
+                {
+                    "title": "Uma mulher no escuro",
+                    "book": "8535931767"
+                },
+                {
+                    "title": "Jurassic Park",
+                    "book": "8576575345"
+                },
+                {
+                    "title": "A última casa da rua Needless",
+                    "book": "6556220469"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Política, Filosofia e Ciências Sociais",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Pense como um imperador: Conheça a mente de um dos maiores líderes da história e descubra como um mindset resiliente pode vencer qualquer adversidade",
+                    "book": "6550470307"
+                },
+                {
+                    "title": "A felicidade é inútil",
+                    "book": "felicidade"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Mulheres que correm com os lobos: Mitos e histórias do arquétipo da Mulher Selvagem",
+                    "book": "853252978X"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Textos para tocar cicatrizes - Textos cruéis demais",
+                    "book": "6588131712"
+                },
+                {
+                    "title": "A morte é um dia que vale a pena viver: E um excelente motivo para se buscar um novo olhar para a vida",
+                    "book": "8543107202"
+                },
+                {
+                    "title": "O Cérebro da Criança: 12 estratégias revolucionárias para nutrir a mente em desenvolvimento do seu filho e ajudar sua família a prosperar",
+                    "book": "8584440739"
+                },
+                {
+                    "title": "Comunicação não violenta - Nova edição: Técnicas para aprimorar relacionamentos pessoais e profissionais",
+                    "book": "8571832641"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "A coragem de não agradar: Como a filosofia pode ajudar você a se libertar da opinião dos outros, superar suas limitações e se tornar a pessoa que deseja",
+                    "book": "8543105692"
+                },
+                {
+                    "title": "30 HISTÓRIAS PARA DORMIR",
+                    "book": "8568599087"
+                },
+                {
+                    "title": "Em busca de mim",
+                    "book": "6557121383"
+                },
+                {
+                    "title": "Nunca foi segredo: A sabedoria de Milênios em 60 ensinamentos",
+                    "book": "6588444699"
+                },
+                {
+                    "title": "O menino, a toupeira, a raposa e o cavalo",
+                    "book": "8543109930"
+                },
+                {
+                    "title": "O pacto da branquitude",
+                    "book": "6559212327"
+                },
+                {
+                    "title": "Cartas de um diabo a seu aprendiz",
+                    "book": "857860184X"
+                },
+                {
+                    "title": "Como ser um educador antirracista: Para familiares e professores",
+                    "book": "8542221257"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Pense como um imperador: Conheça a mente de um dos maiores líderes da história e descubra como um mindset resiliente pode vencer qualquer adversidade",
+                    "book": "6550470307"
+                },
+                {
+                    "title": "A felicidade é inútil",
+                    "book": "felicidade"
+                },
+                {
+                    "title": "Mais esperto que o Diabo: O mistério revelado da liberdade e do sucesso",
+                    "book": "8568014003"
+                },
+                {
+                    "title": "Mulheres que correm com os lobos: Mitos e histórias do arquétipo da Mulher Selvagem",
+                    "book": "853252978X"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Textos para tocar cicatrizes - Textos cruéis demais",
+                    "book": "6588131712"
+                },
+                {
+                    "title": "A morte é um dia que vale a pena viver: E um excelente motivo para se buscar um novo olhar para a vida",
+                    "book": "8543107202"
+                },
+                {
+                    "title": "O Cérebro da Criança: 12 estratégias revolucionárias para nutrir a mente em desenvolvimento do seu filho e ajudar sua família a prosperar",
+                    "book": "8584440739"
+                },
+                {
+                    "title": "Comunicação não violenta - Nova edição: Técnicas para aprimorar relacionamentos pessoais e profissionais",
+                    "book": "8571832641"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "A coragem de não agradar: Como a filosofia pode ajudar você a se libertar da opinião dos outros, superar suas limitações e se tornar a pessoa que deseja",
+                    "book": "8543105692"
+                },
+                {
+                    "title": "30 HISTÓRIAS PARA DORMIR",
+                    "book": "8568599087"
+                },
+                {
+                    "title": "Em busca de mim",
+                    "book": "6557121383"
+                },
+                {
+                    "title": "Nunca foi segredo: A sabedoria de Milênios em 60 ensinamentos",
+                    "book": "6588444699"
+                },
+                {
+                    "title": "O menino, a toupeira, a raposa e o cavalo",
+                    "book": "8543109930"
+                },
+                {
+                    "title": "O pacto da branquitude",
+                    "book": "6559212327"
+                },
+                {
+                    "title": "Cartas de um diabo a seu aprendiz",
+                    "book": "857860184X"
+                },
+                {
+                    "title": "Como ser um educador antirracista: Para familiares e professores",
+                    "book": "8542221257"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Religião e Espiritualidade",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Judaísmo Para Leigos - 2ª edição: Explore a magnitude do judaísmo | Descubra os rituais inseridos no cotidiano da vida judaica | Compreenda a profundidade espiritual dessa fé milenar",
+                    "book": "6555205547"
+                },
+                {
+                    "title": "A Biblia do Tarô: O Guia Definitivo das Tiragens e dos Significados dos Arcanos Maiores e Menores",
+                    "book": "8531517540"
+                },
+                {
+                    "title": "Café com Deus Pai: Porções Diárias de Renovação",
+                    "book": "6555843144"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+                    "book": "8543105293"
+                },
+                {
+                    "title": "O Deus que destrói sonhos",
+                    "book": "6556891851"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "12 regras para a vida: um antídoto para o caos",
+                    "book": "8550802751"
+                },
+                {
+                    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o extraordinário",
+                    "book": "655047051X"
+                },
+                {
+                    "title": "Uttara Gita: A busca e a conquista da unidade e o caminho para a libertação espiritual",
+                    "book": "8531522315"
+                },
+                {
+                    "title": "Devocional - Colocando a Vida em Ordem",
+                    "book": "6555843438"
+                },
+                {
+                    "title": "Nunca foi segredo: A sabedoria de Milênios em 60 ensinamentos",
+                    "book": "6588444699"
+                },
+                {
+                    "title": "Cartas de um diabo a seu aprendiz",
+                    "book": "857860184X"
+                },
+                {
+                    "title": "Forte: Devocionais para uma vida poderosa e apaixonada",
+                    "book": "6556890111"
+                },
+                {
+                    "title": "O poder do agora: Um guia para a iluminação espiritual",
+                    "book": "8575420275"
+                },
+                {
+                    "title": "365 Historias Bíblicas",
+                    "book": "8595200629"
+                },
+                {
+                    "title": "Ego transformado",
+                    "book": "8527505924"
+                },
+                {
+                    "title": "Biblioteca Estoica | Grandes Mestres - Box com 4 livros",
+                    "book": "6580921609"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Judaísmo Para Leigos - 2ª edição: Explore a magnitude do judaísmo | Descubra os rituais inseridos no cotidiano da vida judaica | Compreenda a profundidade espiritual dessa fé milenar",
+                    "book": "6555205547"
+                },
+                {
+                    "title": "A Biblia do Tarô: O Guia Definitivo das Tiragens e dos Significados dos Arcanos Maiores e Menores",
+                    "book": "8531517540"
+                },
+                {
+                    "title": "Café com Deus Pai: Porções Diárias de Renovação",
+                    "book": "6555843144"
+                },
+                {
+                    "title": "Quem pensa enriquece - o legado: O legado",
+                    "book": "8568014542"
+                },
+                {
+                    "title": "Nada pode me ferir",
+                    "book": "6555646136"
+                },
+                {
+                    "title": "As coisas que você só vê quando desacelera: Como manter a calma em um mundo frenético",
+                    "book": "8543105293"
+                },
+                {
+                    "title": "O Deus que destrói sonhos",
+                    "book": "6556891851"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "12 regras para a vida: um antídoto para o caos",
+                    "book": "8550802751"
+                },
+                {
+                    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o extraordinário",
+                    "book": "655047051X"
+                },
+                {
+                    "title": "Uttara Gita: A busca e a conquista da unidade e o caminho para a libertação espiritual",
+                    "book": "8531522315"
+                },
+                {
+                    "title": "Devocional - Colocando a Vida em Ordem",
+                    "book": "6555843438"
+                },
+                {
+                    "title": "Nunca foi segredo: A sabedoria de Milênios em 60 ensinamentos",
+                    "book": "6588444699"
+                },
+                {
+                    "title": "Cartas de um diabo a seu aprendiz",
+                    "book": "857860184X"
+                },
+                {
+                    "title": "Forte: Devocionais para uma vida poderosa e apaixonada",
+                    "book": "6556890111"
+                },
+                {
+                    "title": "O poder do agora: Um guia para a iluminação espiritual",
+                    "book": "8575420275"
+                },
+                {
+                    "title": "365 Historias Bíblicas",
+                    "book": "8595200629"
+                },
+                {
+                    "title": "Ego transformado",
+                    "book": "8527505924"
+                },
+                {
+                    "title": "Biblioteca Estoica | Grandes Mestres - Box com 4 livros",
+                    "book": "6580921609"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Romance",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Não me abandone jamais",
+                    "book": "8535926550"
+                },
+                {
+                    "title": "As cruzadas vistas pelos árabes",
+                    "book": "8554126939"
+                },
+                {
+                    "title": "É assim que começa (Vol. 2 É assim que acaba)",
+                    "book": "6559811395"
+                },
+                {
+                    "title": "É Assim que Acaba: 1",
+                    "book": "8501112518"
+                },
+                {
+                    "title": "A Biblioteca da Meia-Noite",
+                    "book": "6558380544"
+                },
+                {
+                    "title": "Verity",
+                    "book": "8501117846"
+                },
+                {
+                    "title": "Todas as suas (im)perfeições",
+                    "book": "8501117684"
+                },
+                {
+                    "title": "Até o verão terminar",
+                    "book": "6559810372"
+                },
+                {
+                    "title": "O lado feio do amor",
+                    "book": "8501105732"
+                },
+                {
+                    "title": "Antes que o café esfrie",
+                    "book": "6588490364"
+                },
+                {
+                    "title": "Anne de Windy Poplars",
+                    "book": "658788556X"
+                },
+                {
+                    "title": "A vida oculta das coisas",
+                    "book": "6550471281"
+                },
+                {
+                    "title": "As mil partes do meu coração",
+                    "book": "8501115746"
+                },
+                {
+                    "title": "A vida invisível de Addie LaRue",
+                    "book": "6555872551"
+                },
+                {
+                    "title": "A hipótese do amor (Sucesso do TikTok)",
+                    "book": "6555653302"
+                },
+                {
+                    "title": "O Meu Amigo Pintor",
+                    "book": "8589020088"
+                },
+                {
+                    "title": "Kit Hopeless",
+                    "book": "8501305561"
+                },
+                {
+                    "title": "Amor(es) verdadeiro(s)",
+                    "book": "8584391673"
+                },
+                {
+                    "title": "Leitura de verão",
+                    "book": "6559240630"
+                },
+                {
+                    "title": "Uma segunda chance (Fenômeno do TikTok)",
+                    "book": "6559811298"
+                },
+                {
+                    "title": "1789 - O romance da Revolução Francesa",
+                    "book": "8554126815"
+                },
+                {
+                    "title": "Sissi: A imperatriz solitária",
+                    "book": "8582354088"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Não me abandone jamais",
+                    "book": "8535926550"
+                },
+                {
+                    "title": "As cruzadas vistas pelos árabes",
+                    "book": "8554126939"
+                },
+                {
+                    "title": "É assim que começa (Vol. 2 É assim que acaba)",
+                    "book": "6559811395"
+                },
+                {
+                    "title": "É Assim que Acaba: 1",
+                    "book": "8501112518"
+                },
+                {
+                    "title": "A Biblioteca da Meia-Noite",
+                    "book": "6558380544"
+                },
+                {
+                    "title": "Verity",
+                    "book": "8501117846"
+                },
+                {
+                    "title": "Todas as suas (im)perfeições",
+                    "book": "8501117684"
+                },
+                {
+                    "title": "Até o verão terminar",
+                    "book": "6559810372"
+                },
+                {
+                    "title": "O lado feio do amor",
+                    "book": "8501105732"
+                },
+                {
+                    "title": "Antes que o café esfrie",
+                    "book": "6588490364"
+                },
+                {
+                    "title": "Anne de Windy Poplars",
+                    "book": "658788556X"
+                },
+                {
+                    "title": "A vida oculta das coisas",
+                    "book": "6550471281"
+                },
+                {
+                    "title": "As mil partes do meu coração",
+                    "book": "8501115746"
+                },
+                {
+                    "title": "A vida invisível de Addie LaRue",
+                    "book": "6555872551"
+                },
+                {
+                    "title": "A hipótese do amor (Sucesso do TikTok)",
+                    "book": "6555653302"
+                },
+                {
+                    "title": "O Meu Amigo Pintor",
+                    "book": "8589020088"
+                },
+                {
+                    "title": "Kit Hopeless",
+                    "book": "8501305561"
+                },
+                {
+                    "title": "Amor(es) verdadeiro(s)",
+                    "book": "8584391673"
+                },
+                {
+                    "title": "Leitura de verão",
+                    "book": "6559240630"
+                },
+                {
+                    "title": "Uma segunda chance (Fenômeno do TikTok)",
+                    "book": "6559811298"
+                },
+                {
+                    "title": "1789 - O romance da Revolução Francesa",
+                    "book": "8554126815"
+                },
+                {
+                    "title": "Sissi: A imperatriz solitária",
+                    "book": "8582354088"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Saúde e Família",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Ansiedade: O fim da escravidão",
+                    "book": "6550471176"
+                },
+                {
+                    "title": "A arte de ser infeliz: Desarmando armadilhas emocionais",
+                    "book": "8568014569"
+                },
+                {
+                    "title": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+                    "book": "8550807567"
+                },
+                {
+                    "title": "O livro que você gostaria que seus pais tivessem lido: (e seus filhos ficarão gratos por você ler)",
+                    "book": "8584391606"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "A gente mira no amor e acerta na solidão",
+                    "book": "6555357029"
+                },
+                {
+                    "title": "As cinco linguagens do amor - 3 edição: Como expressar um compromisso de amor a seu cônjuge",
+                    "book": "8573258926"
+                },
+                {
+                    "title": "A morte é um dia que vale a pena viver: E um excelente motivo para se buscar um novo olhar para a vida",
+                    "book": "8543107202"
+                },
+                {
+                    "title": "A coragem de ser imperfeito: Como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é",
+                    "book": "8543104335"
+                },
+                {
+                    "title": "O Cérebro da Criança: 12 estratégias revolucionárias para nutrir a mente em desenvolvimento do seu filho e ajudar sua família a prosperar",
+                    "book": "8584440739"
+                },
+                {
+                    "title": "O manuscrito original: As leis do triunfo e do sucesso de Napoleon Hill",
+                    "book": "Manuscrito"
+                },
+                {
+                    "title": "TDAH - Transtorno do Déficit de Atenção com Hiperatividade",
+                    "book": "8551307096"
+                },
+                {
+                    "title": "Comunicação não violenta - Nova edição: Técnicas para aprimorar relacionamentos pessoais e profissionais",
+                    "book": "8571832641"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "As armas da persuasão: Como influenciar e não se deixar influenciar",
+                    "book": "8575428098"
+                },
+                {
+                    "title": "12 regras para a vida: um antídoto para o caos",
+                    "book": "8550802751"
+                },
+                {
+                    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o extraordinário",
+                    "book": "655047051X"
+                },
+                {
+                    "title": "A coragem de não agradar: Como a filosofia pode ajudar você a se libertar da opinião dos outros, superar suas limitações e se tornar a pessoa que deseja",
+                    "book": "8543105692"
+                },
+                {
+                    "title": "Nação dopamina: Por que o excesso de prazer está nos deixando infelizes e o que podemos fazer para mudar",
+                    "book": "6586551714"
+                },
+                {
+                    "title": "Crianças francesas não fazem manha",
+                    "book": "8539004291"
+                },
+                {
+                    "title": "O poder do recomeço: Os 7 passos para recomeçar da maneira certa",
+                    "book": "6550471745"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Ansiedade: O fim da escravidão",
+                    "book": "6550471176"
+                },
+                {
+                    "title": "A arte de ser infeliz: Desarmando armadilhas emocionais",
+                    "book": "8568014569"
+                },
+                {
+                    "title": "Hábitos atômicos: Um método fácil e comprovado de criar bons hábitos e se livrar dos maus.",
+                    "book": "8550807567"
+                },
+                {
+                    "title": "O livro que você gostaria que seus pais tivessem lido: (e seus filhos ficarão gratos por você ler)",
+                    "book": "8584391606"
+                },
+                {
+                    "title": "Mindset: A nova psicologia do sucesso",
+                    "book": "8547000240"
+                },
+                {
+                    "title": "A gente mira no amor e acerta na solidão",
+                    "book": "6555357029"
+                },
+                {
+                    "title": "As cinco linguagens do amor - 3 edição: Como expressar um compromisso de amor a seu cônjuge",
+                    "book": "8573258926"
+                },
+                {
+                    "title": "A morte é um dia que vale a pena viver: E um excelente motivo para se buscar um novo olhar para a vida",
+                    "book": "8543107202"
+                },
+                {
+                    "title": "A coragem de ser imperfeito: Como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é",
+                    "book": "8543104335"
+                },
+                {
+                    "title": "O Cérebro da Criança: 12 estratégias revolucionárias para nutrir a mente em desenvolvimento do seu filho e ajudar sua família a prosperar",
+                    "book": "8584440739"
+                },
+                {
+                    "title": "O manuscrito original: As leis do triunfo e do sucesso de Napoleon Hill",
+                    "book": "Manuscrito"
+                },
+                {
+                    "title": "TDAH - Transtorno do Déficit de Atenção com Hiperatividade",
+                    "book": "8551307096"
+                },
+                {
+                    "title": "Comunicação não violenta - Nova edição: Técnicas para aprimorar relacionamentos pessoais e profissionais",
+                    "book": "8571832641"
+                },
+                {
+                    "title": "#umdiasemreclamar: Descubra por que a gratidão pode mudar a sua vida",
+                    "book": "6587885047"
+                },
+                {
+                    "title": "As armas da persuasão: Como influenciar e não se deixar influenciar",
+                    "book": "8575428098"
+                },
+                {
+                    "title": "12 regras para a vida: um antídoto para o caos",
+                    "book": "8550802751"
+                },
+                {
+                    "title": "Como se tornar sobrenatural: Pessoas comuns realizando o extraordinário",
+                    "book": "655047051X"
+                },
+                {
+                    "title": "A coragem de não agradar: Como a filosofia pode ajudar você a se libertar da opinião dos outros, superar suas limitações e se tornar a pessoa que deseja",
+                    "book": "8543105692"
+                },
+                {
+                    "title": "Nação dopamina: Por que o excesso de prazer está nos deixando infelizes e o que podemos fazer para mudar",
+                    "book": "6586551714"
+                },
+                {
+                    "title": "Crianças francesas não fazem manha",
+                    "book": "8539004291"
+                },
+                {
+                    "title": "O poder do recomeço: Os 7 passos para recomeçar da maneira certa",
+                    "book": "6550471745"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Turismo e Guias de Viagem",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Cem dias entre céu e mar",
+                    "book": "8535906428"
+                },
+                {
+                    "title": "Sozinho ao Redor do Mundo",
+                    "book": "655660111X"
+                },
+                {
+                    "title": "Férias na Antártica",
+                    "book": "8575963600"
+                },
+                {
+                    "title": "A incrível viagem de Shackleton: A mais extraordinária aventura de todos os tempos",
+                    "book": "6555642556"
+                },
+                {
+                    "title": "A fronteira: Uma viagem em torno da Rússia – pela Coreia do Norte, China, Mongólia, Cazaquistão, Azerbaijão, Geórgia, Ucrânia, Belarus, Lituânia, ... Finlândia, Noruega e Passagem do Nordeste",
+                    "book": "6559980952"
+                },
+                {
+                    "title": "Arrabalde: Em busca da Amazônia",
+                    "book": "6559211525"
+                },
+                {
+                    "title": "Atlas Geográfico Melhoramentos",
+                    "book": "8506082064"
+                },
+                {
+                    "title": "Na natureza selvagem (Nova edição com posfácio inédito do autor)",
+                    "book": "853593071X"
+                },
+                {
+                    "title": "Mil milhas",
+                    "book": "6559311082"
+                },
+                {
+                    "title": "Ideias que colam: por que algumas ideias pegam e outras não",
+                    "book": "8550803669"
+                },
+                {
+                    "title": "Volta ao Mundo: Um Guia Irreverente",
+                    "book": "6555603003"
+                },
+                {
+                    "title": "Paris - Guia Visual com Mapa",
+                    "book": "8579142709"
+                },
+                {
+                    "title": "São Paulo",
+                    "book": "6588766149"
+                },
+                {
+                    "title": "Palestina",
+                    "book": "6586691400"
+                },
+                {
+                    "title": "Flâneuse: Mulheres que caminham pela cidade em Paris, Nova York, Tóquio, Veneza e Londres",
+                    "book": "6589733678"
+                },
+                {
+                    "title": "Não inventa, Mariana",
+                    "book": "6556252069"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Cem dias entre céu e mar",
+                    "book": "8535906428"
+                },
+                {
+                    "title": "Sozinho ao Redor do Mundo",
+                    "book": "655660111X"
+                },
+                {
+                    "title": "Férias na Antártica",
+                    "book": "8575963600"
+                },
+                {
+                    "title": "A incrível viagem de Shackleton: A mais extraordinária aventura de todos os tempos",
+                    "book": "6555642556"
+                },
+                {
+                    "title": "A fronteira: Uma viagem em torno da Rússia – pela Coreia do Norte, China, Mongólia, Cazaquistão, Azerbaijão, Geórgia, Ucrânia, Belarus, Lituânia, ... Finlândia, Noruega e Passagem do Nordeste",
+                    "book": "6559980952"
+                },
+                {
+                    "title": "Arrabalde: Em busca da Amazônia",
+                    "book": "6559211525"
+                },
+                {
+                    "title": "Atlas Geográfico Melhoramentos",
+                    "book": "8506082064"
+                },
+                {
+                    "title": "Na natureza selvagem (Nova edição com posfácio inédito do autor)",
+                    "book": "853593071X"
+                },
+                {
+                    "title": "Mil milhas",
+                    "book": "6559311082"
+                },
+                {
+                    "title": "Ideias que colam: por que algumas ideias pegam e outras não",
+                    "book": "8550803669"
+                },
+                {
+                    "title": "Volta ao Mundo: Um Guia Irreverente",
+                    "book": "6555603003"
+                },
+                {
+                    "title": "Paris - Guia Visual com Mapa",
+                    "book": "8579142709"
+                },
+                {
+                    "title": "São Paulo",
+                    "book": "6588766149"
+                },
+                {
+                    "title": "Palestina",
+                    "book": "6586691400"
+                },
+                {
+                    "title": "Flâneuse: Mulheres que caminham pela cidade em Paris, Nova York, Tóquio, Veneza e Londres",
+                    "book": "6589733678"
+                },
+                {
+                    "title": "Não inventa, Mariana",
+                    "book": "6556252069"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Inglês e Outras Línguas",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Paixão Simples",
+                    "book": "6584568296"
+                },
+                {
+                    "title": "Nausicaa of the Valley of the Wind",
+                    "book": "1421550644"
+                },
+                {
+                    "title": "Uzumaki: deluxe edition",
+                    "book": "1421561328"
+                },
+                {
+                    "title": "Interchange Intro Student's Book with Digital Pack",
+                    "book": "1009040553"
+                },
+                {
+                    "title": "The Gruffalo",
+                    "book": "0142403873"
+                },
+                {
+                    "title": "I Just Forgot",
+                    "book": "0307119750"
+                },
+                {
+                    "title": "English for Everyone: Level 1: Beginner, Course Book: A Complete Self-Study Program",
+                    "book": "1465447628"
+                },
+                {
+                    "title": "The Very Hungry Caterpillar: Eric Carle",
+                    "book": "0241003008"
+                },
+                {
+                    "title": "Berserk Deluxe Volume 2",
+                    "book": "1506711995"
+                },
+                {
+                    "title": "Haikyu!! Vol. 04 - Big",
+                    "book": "6555942959"
+                },
+                {
+                    "title": "The Cat in the Hat Comes Back!",
+                    "book": "0394800028"
+                },
+                {
+                    "title": "American English File 1 Student Book Pk - 03Edition",
+                    "book": "0194906167"
+                },
+                {
+                    "title": "Creative Haven Home Sweet Home Coloring Book",
+                    "book": "0486837572"
+                },
+                {
+                    "title": "Dotcom Secrets: The Underground Playbook for Growing Your Company Online with Sales Funnels",
+                    "book": "1401970591"
+                },
+                {
+                    "title": "I Know Why the Caged Bird Sings",
+                    "book": "0345514408"
+                },
+                {
+                    "title": "Dicionário Oxford Escolar - para estudantes brasileiros de inglês",
+                    "book": "0194403564"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Paixão Simples",
+                    "book": "6584568296"
+                },
+                {
+                    "title": "Nausicaa of the Valley of the Wind",
+                    "book": "1421550644"
+                },
+                {
+                    "title": "Uzumaki: deluxe edition",
+                    "book": "1421561328"
+                },
+                {
+                    "title": "Interchange Intro Student's Book with Digital Pack",
+                    "book": "1009040553"
+                },
+                {
+                    "title": "The Gruffalo",
+                    "book": "0142403873"
+                },
+                {
+                    "title": "I Just Forgot",
+                    "book": "0307119750"
+                },
+                {
+                    "title": "English for Everyone: Level 1: Beginner, Course Book: A Complete Self-Study Program",
+                    "book": "1465447628"
+                },
+                {
+                    "title": "The Very Hungry Caterpillar: Eric Carle",
+                    "book": "0241003008"
+                },
+                {
+                    "title": "Berserk Deluxe Volume 2",
+                    "book": "1506711995"
+                },
+                {
+                    "title": "Haikyu!! Vol. 04 - Big",
+                    "book": "6555942959"
+                },
+                {
+                    "title": "The Cat in the Hat Comes Back!",
+                    "book": "0394800028"
+                },
+                {
+                    "title": "American English File 1 Student Book Pk - 03Edition",
+                    "book": "0194906167"
+                },
+                {
+                    "title": "Creative Haven Home Sweet Home Coloring Book",
+                    "book": "0486837572"
+                },
+                {
+                    "title": "Dotcom Secrets: The Underground Playbook for Growing Your Company Online with Sales Funnels",
+                    "book": "1401970591"
+                },
+                {
+                    "title": "I Know Why the Caged Bird Sings",
+                    "book": "0345514408"
+                },
+                {
+                    "title": "Dicionário Oxford Escolar - para estudantes brasileiros de inglês",
+                    "book": "0194403564"
+                }
+            ]
+        }
+    ]
+},
+{
+    "department": "Jovens e Adolescentes",
+    "books": [
+        {
+            "pag": 0,
+            "books": [
+                {
+                    "title": "Os últimos jovens da terra: E a corrida do fim do mundo",
+                    "book": "6559572463"
+                },
+                {
+                    "title": "Os últimos jovens da Terra: A marcha dos zumbis",
+                    "book": "8595811032"
+                },
+                {
+                    "title": "O homem mais rico da Babilônia",
+                    "book": "8595081530"
+                },
+                {
+                    "title": "Mentirosos – Sucesso no TikTok",
+                    "book": "8565765482"
+                },
+                {
+                    "title": "Nick e Charlie: Uma novela de Heartstopper",
+                    "book": "8555342376"
+                },
+                {
+                    "title": "Tudo Sobre o Amor",
+                    "book": "6587235247"
+                },
+                {
+                    "title": "A vida invisível de Addie LaRue",
+                    "book": "6555872551"
+                },
+                {
+                    "title": "Uma tempestade de verão: (Sucesso no TikTok)",
+                    "book": "6555323434"
+                },
+                {
+                    "title": "Atitude mental positiva",
+                    "book": "8568014054"
+                },
+                {
+                    "title": "O menino do pijama listrado",
+                    "book": "853591112X"
+                },
+                {
+                    "title": "Heartstopper: De mãos dadas (vol. 4): Inspiração para a série da Netflix",
+                    "book": "8555342066"
+                },
+                {
+                    "title": "Heartstopper: Dois garotos, um encontro (vol. 1): Inspiração para a série da Netflix",
+                    "book": "8555341612"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Heartstopper: Um passo adiante (vol. 3): Inspiração para a série da Netflix",
+                    "book": "8555341922"
+                },
+                {
+                    "title": "Amêndoas",
+                    "book": "6555323280"
+                },
+                {
+                    "title": "Alice no País das Maravilhas (Classic Edition)",
+                    "book": "8594541759"
+                },
+                {
+                    "title": "A balada do felizes para nunca (Sucesso no TikTok)",
+                    "book": "8582356870"
+                },
+                {
+                    "title": "Heartstopper: Minha pessoa favorita (vol. 2): Inspiração para a série da Netflix",
+                    "book": "8555341620"
+                }
+            ]
+        },
+        {
+            "pag": 1,
+            "books": [
+                {
+                    "title": "Os últimos jovens da terra: E a corrida do fim do mundo",
+                    "book": "6559572463"
+                },
+                {
+                    "title": "Os últimos jovens da Terra: A marcha dos zumbis",
+                    "book": "8595811032"
+                },
+                {
+                    "title": "O homem mais rico da Babilônia",
+                    "book": "8595081530"
+                },
+                {
+                    "title": "Mentirosos – Sucesso no TikTok",
+                    "book": "8565765482"
+                },
+                {
+                    "title": "Nick e Charlie: Uma novela de Heartstopper",
+                    "book": "8555342376"
+                },
+                {
+                    "title": "Tudo Sobre o Amor",
+                    "book": "6587235247"
+                },
+                {
+                    "title": "A vida invisível de Addie LaRue",
+                    "book": "6555872551"
+                },
+                {
+                    "title": "Uma tempestade de verão: (Sucesso no TikTok)",
+                    "book": "6555323434"
+                },
+                {
+                    "title": "Atitude mental positiva",
+                    "book": "8568014054"
+                },
+                {
+                    "title": "O menino do pijama listrado",
+                    "book": "853591112X"
+                },
+                {
+                    "title": "Heartstopper: De mãos dadas (vol. 4): Inspiração para a série da Netflix",
+                    "book": "8555342066"
+                },
+                {
+                    "title": "Heartstopper: Dois garotos, um encontro (vol. 1): Inspiração para a série da Netflix",
+                    "book": "8555341612"
+                },
+                {
+                    "title": "O Príncipe de Maquiavel: Texto Integral",
+                    "book": "8572839046"
+                },
+                {
+                    "title": "Heartstopper: Um passo adiante (vol. 3): Inspiração para a série da Netflix",
+                    "book": "8555341922"
+                },
+                {
+                    "title": "Amêndoas",
+                    "book": "6555323280"
+                },
+                {
+                    "title": "Alice no País das Maravilhas (Classic Edition)",
+                    "book": "8594541759"
+                },
+                {
+                    "title": "A balada do felizes para nunca (Sucesso no TikTok)",
+                    "book": "8582356870"
+                },
+                {
+                    "title": "Heartstopper: Minha pessoa favorita (vol. 2): Inspiração para a série da Netflix",
+                    "book": "8555341620"
+                }
+            ]
+        }
+    ]
+},
