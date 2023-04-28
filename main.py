@@ -1,4 +1,3 @@
-'''Ate este momento o código esta todo funcional!'''
 from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 import json
