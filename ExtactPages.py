@@ -5,6 +5,13 @@ import re
 
 from Page import Page
 
+class Captcha:
+    def __init__(self, img):
+        self.img = img
+
+    def getText(self):
+        pass
+
 class ExtractPages:
     def __init__(self):
         self.SESSION = HTMLSession()
@@ -16,20 +23,25 @@ class ExtractPages:
         soup = BeautifulSoup(html.text, 'html.parser')
         return soup
     
-    def getHref(self, element, tp):
-        if tp == 'department':
-            tag = 'a'
-        elif tp == 'book':
-            tag = 'sapn'
-        else:
-            raise('Type off out escoupe')
+    def getDepartmentAndHref(self, li):
         try:
-            href = element.find(tag).attrs['href']
-            info = element.find(tag).text.strip()
+            href = li.find('a').attrs['href']
+            department = li.find('a').text.strip()
         except AttributeError:
+            print('attribute not find')
             href = None
-            info = None
-        return (info, href)
+            department = None
+        return [department, href]
+
+    def getBookAndHref(self, card):
+        try:
+            href = card.attrs['href']
+            titleOfBook = card.find('span').text.strip()
+        except AttributeError:
+            print('attribute not find')
+            href = None
+            titleOfBook = None
+        return (titleOfBook, href)
     
     def extractIdNumberHref(self, href):
         com = re.compile(r'.{3}dp/[\d\w]{10,}|&node=[\d\w]{10,}|.{3}%[\d\w]{2}[\d\w]{10,}')
@@ -46,32 +58,21 @@ class ExtractPages:
         div_department = div_refinements.find('span',string='Livros').parent.parent.parent
         li_links = div_department.findAll('li')
         for li in li_links[1:]:
-            dp_href = self.getHref(li, 'department')
+            dp_href = self.getDepartmentAndHref(li)
             self.DEPARTMENTS[dp_href[0]] = self.extractIdNumberHref(dp_href[1])
         with open('departments.json', 'w', encoding='UTF-8') as file:
             json.dump(self.DEPARTMENTS, file, ensure_ascii=False)
     
-    def saveBooks(dic):
+    def saveBooks(self, dic):
         with open('booksV2.json', 'a') as file:
             file.write(json.dumps(dic, ensure_ascii=False))
             file.write(',\n')
-    
-    def getBooksByDepartmentByPage(self, department_node, pag=1):
-        '''
-            {
-                pag:str,
-                books:[
-                    {
-                        id:str,
-                        title:str,
-                        authors:[str],
-                        valor:str,
-                        language:str
+    def saveHTML(self, html):
+        with open('verify.html', 'w') as file:
+            file.write(html)
 
-                    }
-                ]
-            }
-        '''
+    def getBooksByDepartmentByPage(self, department_node, pag=1):
+        '''{pag:str,books:[{id:str,title:str,authors:[str],valor:str,language:str}]}'''
         dic = {'pag':pag, 'books':[]}
         url_pag_books = f'{self.URL_AMAZON}/s?rh=n%3A{department_node}&fs=true&page={pag}'
         articles = []
@@ -79,10 +80,12 @@ class ExtractPages:
             soup = self.getHTML(url_pag_books)
             articles = soup.select('h2 a')
         for card in articles:
-            bk_href = self.getHref(card, 'department')
-            idBook = self.extractIdNumberHref(bk_href[1])
-            page = Page(idBook)
-            dic['books'].append({'id':idBook, 'title':page.extractTitle()})
+            bk_href = self.getBookAndHref(card)
+            if bk_href[1] != None:
+                idBook = self.extractIdNumberHref(bk_href[1])
+                print(idBook)
+                page = Page(self.SESSION, idBook)
+                dic['books'].append({'id':idBook, 'title':page.extractTitle()})
         self.saveBooks(dic)
         return dic
 
