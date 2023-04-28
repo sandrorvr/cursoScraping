@@ -31,7 +31,7 @@ class ExtractPages:
             info = None
         return (info, href)
     
-    def extractIdNumberHref(href):
+    def extractIdNumberHref(self, href):
         com = re.compile(r'.{3}dp/[\d\w]{10,}|&node=[\d\w]{10,}|.{3}%[\d\w]{2}[\d\w]{10,}')
         try:
             extracted = re.findall(com, href)[0][6:]
@@ -51,6 +51,10 @@ class ExtractPages:
         with open('departments.json', 'w', encoding='UTF-8') as file:
             json.dump(self.DEPARTMENTS, file, ensure_ascii=False)
     
+    def saveBooks(dic):
+        with open('booksV2.json', 'a') as file:
+            file.write(json.dumps(dic, ensure_ascii=False))
+            file.write(',\n')
     
     def getBooksByDepartmentByPage(self, department_node, pag=1):
         '''
@@ -76,8 +80,13 @@ class ExtractPages:
             articles = soup.select('h2 a')
         for card in articles:
             bk_href = self.getHref(card, 'department')
-            idPage = self.extractIdNumberHref(bk_href[1])
-            page = Page(idPage)
+            idBook = self.extractIdNumberHref(bk_href[1])
+            page = Page(idBook)
+            dic['books'].append({'id':idBook, 'title':page.extractTitle()})
+        self.saveBooks(dic)
         return dic
-    
 
+if __name__ == '__main__':
+
+    extrator = ExtractPages()
+    extrator.getBooksByDepartmentByPage('12764254011')
