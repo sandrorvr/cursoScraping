@@ -1,7 +1,10 @@
+'''Ate este momento o código esta todo funcional!'''
 from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 import json
 import re
+
+from Page import Page
 
 URL_AMAZON = 'https://www.amazon.com.br'
 DEPARTMENTS = {}
@@ -70,11 +73,14 @@ def getBooksByDepartmentByPage(department_node, pag=1):
 if __name__ == '__main__':
     #getAllDepartments()
     #print(len(BOOKS_BY_DEPARTMENT), BOOKS_BY_DEPARTMENT)
-    with open('departments.json') as file:
+    '''with open('departments.json') as file:
         DEPARTMENTSJSON = json.load(file)
 
     for key in DEPARTMENTSJSON.keys():
         BOOKS_BY_DEPARTMENTS = {'department':key, 'books':[]}
         for pg in range(2):
             BOOKS_BY_DEPARTMENTS['books'].append(getBooksByDepartmentByPage(DEPARTMENTSJSON[key], pag=pg))
-        saveBooks(BOOKS_BY_DEPARTMENTS)
+        saveBooks(BOOKS_BY_DEPARTMENTS)'''
+    pag = Page(SESSION, '8555341620')
+    print(pag.extractTitle())
+    print(pag.extractAuthors())
