@@ -5,12 +5,6 @@ import re
 
 from Page import Page
 
-class Captcha:
-    def __init__(self, img):
-        self.img = img
-
-    def getText(self):
-        pass
 
 class ExtractPages:
     def __init__(self):
@@ -67,9 +61,6 @@ class ExtractPages:
         with open('booksV2.json', 'a') as file:
             file.write(json.dumps(dic, ensure_ascii=False))
             file.write(',\n')
-    def saveHTML(self, html):
-        with open('verify.html', 'w') as file:
-            file.write(html)
 
     def getBooksByDepartmentByPage(self, department_node, pag=1):
         '''{pag:str,books:[{id:str,title:str,authors:[str],valor:str,language:str}]}'''
