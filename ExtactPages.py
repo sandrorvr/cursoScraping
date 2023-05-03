@@ -76,7 +76,15 @@ class ExtractPages:
                 idBook = self.extractIdNumberHref(bk_href[1])
                 print(idBook)
                 page = Page(self.SESSION, idBook)
-                dic['books'].append({'id':idBook, 'title':page.extractTitle()})
+                dic['books'].append(
+                    {
+                    'id':idBook, 
+                    'title':page.extractTitle(), 
+                    'price':page.extractPrice(), 
+                    'authors':page.extractAuthors(), 
+                    'moreInfo':page.extractMoreInformations()
+                    }
+                )
         self.saveBooks(dic)
         return dic
 
