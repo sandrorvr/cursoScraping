@@ -24,16 +24,15 @@ class Captcha:
         img = Image.open(req.raw)
         img.show()
 
-class Page:
+class PageBook:
     def __init__(self, session, book):
+        self.idBook = book
         self.SESSION = session
-        self.url = f'https://www.amazon.com.br/dp/{book}/'
+        self.url = f'https://www.amazon.com.br/dp/{self.idBook }/'
         self.html = self.getHTML()
 
     def getHTML(self):
         html = self.SESSION.get(self.url)
-        with open('./tests/pageBook2.html', 'w') as file:
-            file.write(html.text)
         soup = BeautifulSoup(html.text, 'html.parser')
         if Captcha.haveCaptchaGot(soup): 
             url_img = self.getUrlImg(soup)
@@ -42,6 +41,9 @@ class Page:
         else:
             return soup
     
+    def getIdBook(self):
+        return self.idBook 
+
     def extractTitle(self):
         return self.html.find('span',{'id':'productTitle'}).text
     
@@ -65,6 +67,8 @@ class Page:
     
 
 if __name__ == '__main__':
-    pag = Page('8555341620')
+    import requests
+    sesion = requests.session()
+    pag = PageBook(sesion,'8555341620')
     #print(pag.extractTitle())
     #print(pag.extractAuthors())

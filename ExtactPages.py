@@ -3,7 +3,8 @@ from bs4 import BeautifulSoup
 import json
 import re
 
-from Page import Page
+from PageBook import PageBook
+from DataBaseConection import DB
 
 
 class ExtractPages:
@@ -13,6 +14,7 @@ class ExtractPages:
         self.DEPARTMENTS = {}
     
     def getHTML(self, url):
+        print(url)
         html = self.SESSION.get(url)
         soup = BeautifulSoup(html.text, 'html.parser')
         return soup
@@ -58,35 +60,25 @@ class ExtractPages:
             json.dump(self.DEPARTMENTS, file, ensure_ascii=False)
     
     def saveBooks(self, dic):
-        with open('booksV2.json', 'a') as file:
+        with open('books.json', 'a') as file:
             file.write(json.dumps(dic, ensure_ascii=False))
             file.write(',\n')
 
     def getBooksByDepartmentByPage(self, department_node, pag=1):
-        '''{pag:str,books:[{id:str,title:str,authors:[str],valor:str,language:str}]}'''
-        dic = {'pag':pag, 'books':[]}
+        books = []
         url_pag_books = f'{self.URL_AMAZON}/s?rh=n%3A{department_node}&fs=true&page={pag}'
         articles = []
         while articles == []:
             soup = self.getHTML(url_pag_books)
             articles = soup.select('h2 a')
         for card in articles:
+            print(card)
             bk_href = self.getBookAndHref(card)
             if bk_href[1] != None:
                 idBook = self.extractIdNumberHref(bk_href[1])
-                print(idBook)
-                page = Page(self.SESSION, idBook)
-                dic['books'].append(
-                    {
-                    'id':idBook, 
-                    'title':page.extractTitle(), 
-                    'price':page.extractPrice(), 
-                    'authors':page.extractAuthors(), 
-                    'moreInfo':page.extractMoreInformations()
-                    }
-                )
-        self.saveBooks(dic)
-        return dic
+                book = PageBook(self.SESSION, idBook)
+                books.append(book)
+        return books
 
 if __name__ == '__main__':
 
