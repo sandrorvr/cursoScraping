@@ -63,12 +63,3 @@ class PageBook:
         values = carousel.select('div[class="a-section a-spacing-none a-text-center rpi-attribute-value"] span')
         info = {format(inf[0].text): format(inf[1].text) for inf in zip(labels,values)}
         return info
-
-    
-
-if __name__ == '__main__':
-    import requests
-    sesion = requests.session()
-    pag = PageBook(sesion,'8555341620')
-    #print(pag.extractTitle())
-    #print(pag.extractAuthors())

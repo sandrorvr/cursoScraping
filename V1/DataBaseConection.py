@@ -19,7 +19,8 @@ class DB:
         cursor.execute('''\
             CREATE TABLE IF NOT EXISTS _books\
             (\
-                id INTEGER NOT NULL PRIMARY KEY,\
+                id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+                idBook TEXT,\
                 title TEXT,\
                 price TEXT,\
                 authors TEXT\
@@ -31,7 +32,7 @@ class DB:
         self.initConection(self.path_db)
         cursor = self.conn.cursor()
         cursor.execute("""
-            INSERT INTO _books(id, title, price, authors)
+            INSERT INTO _books(idBook, title, price, authors)
             VALUES(?,?,?,?)
             """, data)
         self.conn.commit()

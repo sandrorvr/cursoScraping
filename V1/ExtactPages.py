@@ -14,7 +14,6 @@ class ExtractPages:
         self.DEPARTMENTS = {}
     
     def getHTML(self, url):
-        print(url)
         html = self.SESSION.get(url)
         soup = BeautifulSoup(html.text, 'html.parser')
         return soup
@@ -72,7 +71,6 @@ class ExtractPages:
             soup = self.getHTML(url_pag_books)
             articles = soup.select('h2 a')
         for card in articles:
-            print(card)
             bk_href = self.getBookAndHref(card)
             if bk_href[1] != None:
                 idBook = self.extractIdNumberHref(bk_href[1])
