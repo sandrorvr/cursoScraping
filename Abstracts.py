@@ -3,12 +3,19 @@ from bs4 import BeautifulSoup
 from requests_html import HTMLSession
 
 class Book(ABC):
-    def __init__(self, SESSION, url):
-        self.SESSION = SESSION
+    SESSION = None
+
+    def __init__(self, url):
         self.url = url
+        self.pageBook = self.getHTML(self.url)
     
-    def getHTML(self, url):
-        html = self.SESSION.get(url)
+    @classmethod
+    def setSession(cls, session):
+        cls.SESSION = session
+    
+    @classmethod
+    def getHTML(cls, url):
+        html = cls.SESSION.get(url)
         soup = BeautifulSoup(html.text, 'html.parser')
         return soup
 
@@ -16,25 +23,25 @@ class Book(ABC):
     def getTitle(self):
         pass
 
-    @abstractclassmethod
-    def getNPages(self):
-        pass
+ #   @abstractclassmethod
+ #   def getNPages(self):
+ #       pass
+ #
+ #   @abstractclassmethod
+ #   def getISBN(self):
+ #       pass
 
-    @abstractclassmethod
-    def getISBN(self):
-        pass
+ #   @abstractclassmethod
+ #   def getResume(self):
+ #       pass
 
-    @abstractclassmethod
-    def getResume(self):
-        pass
+ #   @abstractclassmethod
+ #   def getKind(self):
+ #       pass
 
-    @abstractclassmethod
-    def getKind(self):
-        pass
-
-    @abstractclassmethod
-    def getPrice(self):
-        pass
+ #   @abstractclassmethod
+ #   def getPrice(self):
+ #       pass
 
 
 class Company(ABC):
@@ -42,6 +49,10 @@ class Company(ABC):
         self.SESSION = HTMLSession()
         self.url = url
         self.company = company
+        self.interation = 1
+    
+    def setInteration(self, interation):
+        self.interation = interation
     
     def getHTML(self, url):
         html = self.SESSION.get(url)
@@ -58,6 +69,8 @@ class Company(ABC):
     @abstractclassmethod
     def nextPage(self):
         pass 
+
+    
 
 
 
